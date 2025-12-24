@@ -1,0 +1,26 @@
+# 大文件和二进制
+*.opus
+*.wav
+*.mp3
+*.ogg
+voices/
+decrypted/*.json
+decrypted/*.scn
+
+# 工具目录
+FreeMote/
+KirikiriTools/
+atri_extract_toolbox/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 临时文件
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

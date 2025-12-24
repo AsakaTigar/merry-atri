@@ -1,0 +1,3964 @@
+[
+  {
+    "voice_file": "atr_b101_001.opus",
+    "voice_id": "ATR_B101_001",
+    "speaker": "ev1",
+    "text_ja": "「…………」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_001.opus"
+  },
+  {
+    "voice_file": "atr_b101_002.opus",
+    "voice_id": "ATR_B101_002",
+    "speaker": "ev1",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_002.opus"
+  },
+  {
+    "voice_file": "atr_b101_003.opus",
+    "voice_id": "ATR_B101_003",
+    "speaker": "ev1",
+    "text_ja": "「……ッ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_003.opus"
+  },
+  {
+    "voice_file": "atr_b101_004.opus",
+    "voice_id": "ATR_B101_004",
+    "speaker": "ev1",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_004.opus"
+  },
+  {
+    "voice_file": "atr_b101_005.opus",
+    "voice_id": "ATR_B101_005",
+    "speaker": "bg",
+    "text_ja": "「……？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_005.opus"
+  },
+  {
+    "voice_file": "atr_b101_006.opus",
+    "voice_id": "ATR_B101_006",
+    "speaker": "bg",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_006.opus"
+  },
+  {
+    "voice_file": "atr_b101_007.opus",
+    "voice_id": "ATR_B101_007",
+    "speaker": "ev",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_007.opus"
+  },
+  {
+    "voice_file": "atr_b101_008.opus",
+    "voice_id": "ATR_B101_008",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_008.opus"
+  },
+  {
+    "voice_file": "atr_b101_009.opus",
+    "voice_id": "ATR_B101_009",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_009.opus"
+  },
+  {
+    "voice_file": "atr_b101_010.opus",
+    "voice_id": "ATR_B101_010",
+    "speaker": "bgm",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_010.opus"
+  },
+  {
+    "voice_file": "atr_b101_011.opus",
+    "voice_id": "ATR_B101_011",
+    "speaker": "bgm",
+    "text_ja": "「いえ、当然の務めを果たしたまでです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_011.opus"
+  },
+  {
+    "voice_file": "atr_b101_012.opus",
+    "voice_id": "ATR_B101_012",
+    "speaker": "bg",
+    "text_ja": "「あなた方ヒトがそう総称する精密機器に属していますが、その呼び方は少々広範囲すぎるかと思います」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_012.opus"
+  },
+  {
+    "voice_file": "atr_b101_013.opus",
+    "voice_id": "ATR_B101_013",
+    "speaker": "bgm",
+    "text_ja": "「当然です。高性能ですから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_013.opus"
+  },
+  {
+    "voice_file": "atr_b101_014.opus",
+    "voice_id": "ATR_B101_014",
+    "speaker": "bgm",
+    "text_ja": "「そうです、ダメです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_014.opus"
+  },
+  {
+    "voice_file": "atr_b101_015.opus",
+    "voice_id": "ATR_B101_015",
+    "speaker": "bgm",
+    "text_ja": "「わたしはマスターの所有物ですので。勝手に売買するのは違法です」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_015.opus"
+  },
+  {
+    "voice_file": "atr_b101_016.opus",
+    "voice_id": "ATR_B101_016",
+    "speaker": "bgm",
+    "text_ja": "「え……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_016.opus"
+  },
+  {
+    "voice_file": "atr_b101_017.opus",
+    "voice_id": "ATR_B101_017",
+    "speaker": "bgm",
+    "text_ja": "「ええぇぇ……マスター死んじゃったんですかぁ。そうですかぁ。合掌」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_017.opus"
+  },
+  {
+    "voice_file": "atr_b101_018.opus",
+    "voice_id": "ATR_B101_018",
+    "speaker": "bgm",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_018.opus"
+  },
+  {
+    "voice_file": "atr_b101_019.opus",
+    "voice_id": "ATR_B101_019",
+    "speaker": "bg",
+    "text_ja": "「……そう……なんですか。あなたが……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_019.opus"
+  },
+  {
+    "voice_file": "atr_b101_020.opus",
+    "voice_id": "ATR_B101_020",
+    "speaker": "bg",
+    "text_ja": "「さっき、海の中で出逢った時から、そんな気がしていました。やっぱりそうだったんですね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_020.opus"
+  },
+  {
+    "voice_file": "atr_b101_021.opus",
+    "voice_id": "ATR_B101_021",
+    "speaker": "bg",
+    "text_ja": "「なんとお呼びしましょう。ご希望があればどうぞ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_021.opus"
+  },
+  {
+    "voice_file": "atr_b101_022.opus",
+    "voice_id": "ATR_B101_022",
+    "speaker": "bg",
+    "text_ja": "「例えば“お兄ちゃん”とか“パパ”とか“にーさま”とか“兄ちゃま”とか……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_022.opus"
+  },
+  {
+    "voice_file": "atr_b101_023.opus",
+    "voice_id": "ATR_B101_023",
+    "speaker": "bg",
+    "text_ja": "「夏生……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_023.opus"
+  },
+  {
+    "voice_file": "atr_b101_024.opus",
+    "voice_id": "ATR_B101_024",
+    "speaker": "bg",
+    "text_ja": "「型番ですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_024.opus"
+  },
+  {
+    "voice_file": "atr_b101_025.opus",
+    "voice_id": "ATR_B101_025",
+    "speaker": "bg",
+    "text_ja": "「“アトリ”です」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_025.opus"
+  },
+  {
+    "voice_file": "atr_b101_026.opus",
+    "voice_id": "ATR_B101_026",
+    "speaker": "bg",
+    "text_ja": "「マスターが名付けてくれました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_026.opus"
+  },
+  {
+    "voice_file": "atr_b101_027.opus",
+    "voice_id": "ATR_B101_027",
+    "speaker": "bg",
+    "text_ja": "「でしょう！固有名が与えられるのは、物であるロボットが命ある者として承認された証ですからね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_027.opus"
+  },
+  {
+    "voice_file": "atr_b101_028.opus",
+    "voice_id": "ATR_B101_028",
+    "speaker": "bg",
+    "text_ja": "「いわゆるひとつのステータスってやつです♪」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_028.opus"
+  },
+  {
+    "voice_file": "atr_b101_029.opus",
+    "voice_id": "ATR_B101_029",
+    "speaker": "bg",
+    "text_ja": "「あ、“夏生”もなかなかいい名前だと思いますよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_029.opus"
+  },
+  {
+    "voice_file": "atr_b101_030.opus",
+    "voice_id": "ATR_B101_030",
+    "speaker": "bg",
+    "text_ja": "「？　こういう目線ですが？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_030.opus"
+  },
+  {
+    "voice_file": "atr_b101_031.opus",
+    "voice_id": "ATR_B101_031",
+    "speaker": "bg",
+    "text_ja": "「よろしくお願いしますね、夏生さん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b101_031.opus"
+  },
+  {
+    "voice_file": "atr_b102_001.opus",
+    "voice_id": "ATR_B102_001",
+    "speaker": "bgm",
+    "text_ja": "「……学校」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_001.opus"
+  },
+  {
+    "voice_file": "atr_b102_002.opus",
+    "voice_id": "ATR_B102_002",
+    "speaker": "bgm",
+    "text_ja": "「手をお貸ししましょうか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_002.opus"
+  },
+  {
+    "voice_file": "atr_b102_003.opus",
+    "voice_id": "ATR_B102_003",
+    "speaker": "bg",
+    "text_ja": "「はいです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_003.opus"
+  },
+  {
+    "voice_file": "atr_b102_004.opus",
+    "voice_id": "ATR_B102_004",
+    "speaker": "bgm",
+    "text_ja": "「質問してもいいですか。ここはどこでしょう」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_004.opus"
+  },
+  {
+    "voice_file": "atr_b102_005.opus",
+    "voice_id": "ATR_B102_005",
+    "speaker": "bgm",
+    "text_ja": "「いえ……わたしのメモリーにはありません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_005.opus"
+  },
+  {
+    "voice_file": "atr_b102_006.opus",
+    "voice_id": "ATR_B102_006",
+    "speaker": "bgm",
+    "text_ja": "「へっちゃらです。高性能ですから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_006.opus"
+  },
+  {
+    "voice_file": "atr_b102_007.opus",
+    "voice_id": "ATR_B102_007",
+    "speaker": "bg2",
+    "text_ja": "「どうかしましたか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_007.opus"
+  },
+  {
+    "voice_file": "atr_b102_008.opus",
+    "voice_id": "ATR_B102_008",
+    "speaker": "bg",
+    "text_ja": "「？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_008.opus"
+  },
+  {
+    "voice_file": "atr_b102_009.opus",
+    "voice_id": "ATR_B102_009",
+    "speaker": "bg",
+    "text_ja": "「わたしに買ってくださるんですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_009.opus"
+  },
+  {
+    "voice_file": "atr_b102_010.opus",
+    "voice_id": "ATR_B102_010",
+    "speaker": "bg",
+    "text_ja": "「うーんと……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_010.opus"
+  },
+  {
+    "voice_file": "atr_b102_011.opus",
+    "voice_id": "ATR_B102_011",
+    "speaker": "bg",
+    "text_ja": "「……待ってください。判断基準が多数あって、決めきれないのです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_011.opus"
+  },
+  {
+    "voice_file": "atr_b102_012.opus",
+    "voice_id": "ATR_B102_012",
+    "speaker": "bg",
+    "text_ja": "「丈夫さはこれだし、見た目が整ってるのはこれで……お値段とのバランスがよさげなのは……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_012.opus"
+  },
+  {
+    "voice_file": "atr_b102_013.opus",
+    "voice_id": "ATR_B102_013",
+    "speaker": "bg",
+    "text_ja": "「わぁ～、サイズもぴったりです！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_013.opus"
+  },
+  {
+    "voice_file": "atr_b102_014.opus",
+    "voice_id": "ATR_B102_014",
+    "speaker": "bgm",
+    "text_ja": "「んっふふ～♪」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_014.opus"
+  },
+  {
+    "voice_file": "atr_b102_015.opus",
+    "voice_id": "ATR_B102_015",
+    "speaker": "bgm",
+    "text_ja": "「はい！　だって夏生さんがわたしに、物を与えてくださったんですもの！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_015.opus"
+  },
+  {
+    "voice_file": "atr_b102_016.opus",
+    "voice_id": "ATR_B102_016",
+    "speaker": "bgm",
+    "text_ja": "「……嬉しいと変でしたか……？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_016.opus"
+  },
+  {
+    "voice_file": "atr_b102_017.opus",
+    "voice_id": "ATR_B102_017",
+    "speaker": "bgm",
+    "text_ja": "「ですよねー。よかったぁ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_017.opus"
+  },
+  {
+    "voice_file": "atr_b102_018.opus",
+    "voice_id": "ATR_B102_018",
+    "speaker": "bg",
+    "text_ja": "「わたしは今から売却されるんですよね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_018.opus"
+  },
+  {
+    "voice_file": "atr_b102_019.opus",
+    "voice_id": "ATR_B102_019",
+    "speaker": "bg",
+    "text_ja": "「あの……お願いがあるんですが」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_019.opus"
+  },
+  {
+    "voice_file": "atr_b102_020.opus",
+    "voice_id": "ATR_B102_020",
+    "speaker": "bg",
+    "text_ja": "「わたしを売るのは少し待っていただけませんか」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_020.opus"
+  },
+  {
+    "voice_file": "atr_b102_021.opus",
+    "voice_id": "ATR_B102_021",
+    "speaker": "bg",
+    "text_ja": "「うんと……４５日です。その後はどうなっても構いません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_021.opus"
+  },
+  {
+    "voice_file": "atr_b102_022.opus",
+    "voice_id": "ATR_B102_022",
+    "speaker": "bg",
+    "text_ja": "「それは……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_022.opus"
+  },
+  {
+    "voice_file": "atr_b102_023.opus",
+    "voice_id": "ATR_B102_023",
+    "speaker": "bg",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_023.opus"
+  },
+  {
+    "voice_file": "atr_b102_024.opus",
+    "voice_id": "ATR_B102_024",
+    "speaker": "bg",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_024.opus"
+  },
+  {
+    "voice_file": "atr_b102_025.opus",
+    "voice_id": "ATR_B102_025",
+    "speaker": "bg",
+    "text_ja": "「はい、間違いありません。今朝、そちらにいる夏生さんに海から引き揚げてもらいました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_025.opus"
+  },
+  {
+    "voice_file": "atr_b102_026.opus",
+    "voice_id": "ATR_B102_026",
+    "speaker": "bg",
+    "text_ja": "「寝てたので、覚えてません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_026.opus"
+  },
+  {
+    "voice_file": "atr_b102_027.opus",
+    "voice_id": "ATR_B102_027",
+    "speaker": "bg",
+    "text_ja": "「それで、わたしは高く売却できそうですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_027.opus"
+  },
+  {
+    "voice_file": "atr_b102_028.opus",
+    "voice_id": "ATR_B102_028",
+    "speaker": "bg",
+    "text_ja": "「なるほど……さすが高性能なわたし。ご満足いただけるプライスが付いたのですね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_028.opus"
+  },
+  {
+    "voice_file": "atr_b102_029.opus",
+    "voice_id": "ATR_B102_029",
+    "speaker": "bg",
+    "text_ja": "「こちらにいる夏生さんです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_029.opus"
+  },
+  {
+    "voice_file": "atr_b102_030.opus",
+    "voice_id": "ATR_B102_030",
+    "speaker": "bgm",
+    "text_ja": "「？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_030.opus"
+  },
+  {
+    "voice_file": "atr_b102_031.opus",
+    "voice_id": "ATR_B102_031",
+    "speaker": "bgm",
+    "text_ja": "「はい、ありがとうございます」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_031.opus"
+  },
+  {
+    "voice_file": "atr_b102_032.opus",
+    "voice_id": "ATR_B102_032",
+    "speaker": "bgm",
+    "text_ja": "「わたしは眠りにつく前、マスターから命令を受けました。それを果たしてからにしてほしいんです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_032.opus"
+  },
+  {
+    "voice_file": "atr_b102_033.opus",
+    "voice_id": "ATR_B102_033",
+    "speaker": "bgm",
+    "text_ja": "「夏生さんは足が必要なんですよね？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_033.opus"
+  },
+  {
+    "voice_file": "atr_b102_034.opus",
+    "voice_id": "ATR_B102_034",
+    "speaker": "bgm",
+    "text_ja": "「それまでの間、わたしが夏生さんの足になります！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_034.opus"
+  },
+  {
+    "voice_file": "atr_b102_035.opus",
+    "voice_id": "ATR_B102_035",
+    "speaker": "bg",
+    "text_ja": "「こんな立派な靴も買っていただきましたし♪」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_035.opus"
+  },
+  {
+    "voice_file": "atr_b102_036.opus",
+    "voice_id": "ATR_B102_036",
+    "speaker": "bg2",
+    "text_ja": "「今使ってるその足より、きっとお役に立ちますよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_036.opus"
+  },
+  {
+    "voice_file": "atr_b102_037.opus",
+    "voice_id": "ATR_B102_037",
+    "speaker": "bg2",
+    "text_ja": "「どうしてですか？わたしの方が高性能なのに」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_037.opus"
+  },
+  {
+    "voice_file": "atr_b102_038.opus",
+    "voice_id": "ATR_B102_038",
+    "speaker": "bg2",
+    "text_ja": "「え、あのっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_038.opus"
+  },
+  {
+    "voice_file": "atr_b102_041.opus",
+    "voice_id": "ATR_B102_041",
+    "speaker": "bg2",
+    "text_ja": "「夏生さん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_041.opus"
+  },
+  {
+    "voice_file": "atr_b102_042.opus",
+    "voice_id": "ATR_B102_042",
+    "speaker": "bg2",
+    "text_ja": "「……はい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_042.opus"
+  },
+  {
+    "voice_file": "atr_b102_043.opus",
+    "voice_id": "ATR_B102_043",
+    "speaker": "bg",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_043.opus"
+  },
+  {
+    "voice_file": "atr_b102_044.opus",
+    "voice_id": "ATR_B102_044",
+    "speaker": "bg",
+    "text_ja": "「それまでの間、わたしが夏生さんの足になります！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_044.opus"
+  },
+  {
+    "voice_file": "atr_b102_045.opus",
+    "voice_id": "ATR_B102_045",
+    "speaker": "bg",
+    "text_ja": "「こんな立派な靴も買っていただきましたし♪」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_045.opus"
+  },
+  {
+    "voice_file": "atr_b102_046.opus",
+    "voice_id": "ATR_B102_046",
+    "speaker": "bg",
+    "text_ja": "「……夏生さん？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_046.opus"
+  },
+  {
+    "voice_file": "atr_b102_047.opus",
+    "voice_id": "ATR_B102_047",
+    "speaker": "bg2",
+    "text_ja": "「はい行きました。夏生さんに言われた通りに。命令を実行してから帰ってきました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_047.opus"
+  },
+  {
+    "voice_file": "atr_b102_048.opus",
+    "voice_id": "ATR_B102_048",
+    "speaker": "bg2",
+    "text_ja": "「はい、水菜萌。連れてきてくれてありがとうです。ぺこり」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_048.opus"
+  },
+  {
+    "voice_file": "atr_b102_049.opus",
+    "voice_id": "ATR_B102_049",
+    "speaker": "bg2",
+    "text_ja": "「学習しました。もう道に迷いません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_049.opus"
+  },
+  {
+    "voice_file": "atr_b102_050.opus",
+    "voice_id": "ATR_B102_050",
+    "speaker": "bg2",
+    "text_ja": "「……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_050.opus"
+  },
+  {
+    "voice_file": "atr_b102_051.opus",
+    "voice_id": "ATR_B102_051",
+    "speaker": "bg2",
+    "text_ja": "「ほら～、わたしの方が高性能でしょう？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_051.opus"
+  },
+  {
+    "voice_file": "atr_b102_052.opus",
+    "voice_id": "ATR_B102_052",
+    "speaker": "bg2",
+    "text_ja": "「ここは危険です。移動しましょう夏生さん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_052.opus"
+  },
+  {
+    "voice_file": "atr_b102_053.opus",
+    "voice_id": "ATR_B102_053",
+    "speaker": "bgm",
+    "text_ja": "「どうされました？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_053.opus"
+  },
+  {
+    "voice_file": "atr_b102_054.opus",
+    "voice_id": "ATR_B102_054",
+    "speaker": "bgm",
+    "text_ja": "「あー、渡れないんですね。ふっふっふ、早速わたしの出番です！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_054.opus"
+  },
+  {
+    "voice_file": "atr_b102_055.opus",
+    "voice_id": "ATR_B102_055",
+    "speaker": "bg",
+    "text_ja": "「あたっ。もぉ～、イタイじゃないですか～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_055.opus"
+  },
+  {
+    "voice_file": "atr_b102_056.opus",
+    "voice_id": "ATR_B102_056",
+    "speaker": "bg",
+    "text_ja": "「ジッとしててくださいね。暴れると危ないですよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_056.opus"
+  },
+  {
+    "voice_file": "atr_b102_057.opus",
+    "voice_id": "ATR_B102_057",
+    "speaker": "bgm",
+    "text_ja": "「はー……びっくりしたー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_057.opus"
+  },
+  {
+    "voice_file": "atr_b102_058.opus",
+    "voice_id": "ATR_B102_058",
+    "speaker": "bgm",
+    "text_ja": "「すみません、つい目測を誤ってしまって……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_058.opus"
+  },
+  {
+    "voice_file": "atr_b102_059.opus",
+    "voice_id": "ATR_B102_059",
+    "speaker": "bg",
+    "text_ja": "「？　これも脱ぎましょうか。濡れちゃいましたから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_059.opus"
+  },
+  {
+    "voice_file": "atr_b102_060.opus",
+    "voice_id": "ATR_B102_060",
+    "speaker": "bg",
+    "text_ja": "「ですがそうなると、ロボット倫理規定的に少々問題が……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_060.opus"
+  },
+  {
+    "voice_file": "atr_b102_061.opus",
+    "voice_id": "ATR_B102_061",
+    "speaker": "bg",
+    "text_ja": "「やめた方がいいですか、そうですか。……残念」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_061.opus"
+  },
+  {
+    "voice_file": "atr_b102_062.opus",
+    "voice_id": "ATR_B102_062",
+    "speaker": "bgm",
+    "text_ja": "「フフーン、わたしの方が高性能ですもんねー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_062.opus"
+  },
+  {
+    "voice_file": "atr_b102_063.opus",
+    "voice_id": "ATR_B102_063",
+    "speaker": "bgm",
+    "text_ja": "「そ、そんな事ないですよっ。今朝、そいつの裏切りによって夏生さんは無様に海に落ちたじゃないですかっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_063.opus"
+  },
+  {
+    "voice_file": "atr_b102_064.opus",
+    "voice_id": "ATR_B102_064",
+    "speaker": "bgm",
+    "text_ja": "「それに、わたしの方が関節が多いし、自力歩行もできるし……あと、うんと……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_064.opus"
+  },
+  {
+    "voice_file": "atr_b102_065.opus",
+    "voice_id": "ATR_B102_065",
+    "speaker": "bgm",
+    "text_ja": "「……どうすれば夏生さんに、わたしの有用性を認めてもらえるんだろう」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_065.opus"
+  },
+  {
+    "voice_file": "atr_b102_066.opus",
+    "voice_id": "ATR_B102_066",
+    "speaker": "bgm",
+    "text_ja": "「はい？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_066.opus"
+  },
+  {
+    "voice_file": "atr_b102_067.opus",
+    "voice_id": "ATR_B102_067",
+    "speaker": "bgm",
+    "text_ja": "「えーっと……うんと……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_067.opus"
+  },
+  {
+    "voice_file": "atr_b102_068.opus",
+    "voice_id": "ATR_B102_068",
+    "speaker": "bgm",
+    "text_ja": "「……。ロストしました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_068.opus"
+  },
+  {
+    "voice_file": "atr_b102_069.opus",
+    "voice_id": "ATR_B102_069",
+    "speaker": "bgm",
+    "text_ja": "「あれ、なんだっけな……えとえと……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_069.opus"
+  },
+  {
+    "voice_file": "atr_b102_070.opus",
+    "voice_id": "ATR_B102_070",
+    "speaker": "bgm",
+    "text_ja": "「ヒトと思考パターンを似せるためのアルゴリズムのせいで、ヒューマノイドは人間同様物忘れをするんですっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_070.opus"
+  },
+  {
+    "voice_file": "atr_b102_071.opus",
+    "voice_id": "ATR_B102_071",
+    "speaker": "bgm",
+    "text_ja": "「何を忘れて何を覚えているか、自分で選択できませんからっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_071.opus"
+  },
+  {
+    "voice_file": "atr_b102_072.opus",
+    "voice_id": "ATR_B102_072",
+    "speaker": "bgm",
+    "text_ja": "「夏生さぁん……あのあの……どんな命令でしたっけ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_072.opus"
+  },
+  {
+    "voice_file": "atr_b102_073.opus",
+    "voice_id": "ATR_B102_073",
+    "speaker": "bgm",
+    "text_ja": "「うー、困りましたぁ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_073.opus"
+  },
+  {
+    "voice_file": "atr_b102_074.opus",
+    "voice_id": "ATR_B102_074",
+    "speaker": "bgm",
+    "text_ja": "「ああっ、それ禁句ですよっ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_074.opus"
+  },
+  {
+    "voice_file": "atr_b102_075.opus",
+    "voice_id": "ATR_B102_075",
+    "speaker": "bgm",
+    "text_ja": "「ロボットをポンコツと呼ぶ事は差別禁止法に抵触します！３ヶ月以下の懲役かもしくは、えとえと……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_075.opus"
+  },
+  {
+    "voice_file": "atr_b102_076.opus",
+    "voice_id": "ATR_B102_076",
+    "speaker": "bg",
+    "text_ja": "「思い出します。頑張って」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_076.opus"
+  },
+  {
+    "voice_file": "atr_b102_077.opus",
+    "voice_id": "ATR_B102_077",
+    "speaker": "bg",
+    "text_ja": "「うー……夏生さぁん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_077.opus"
+  },
+  {
+    "voice_file": "atr_b102_078.opus",
+    "voice_id": "ATR_B102_078",
+    "speaker": "bg",
+    "text_ja": "「……椅子があれば大丈夫です。場所を取らずコンパクトにスリープできるんです。高性能ですから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_078.opus"
+  },
+  {
+    "voice_file": "atr_b102_079.opus",
+    "voice_id": "ATR_B102_079",
+    "speaker": "bg",
+    "text_ja": "「あ、そうだ。夏生さん！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_079.opus"
+  },
+  {
+    "voice_file": "atr_b102_080.opus",
+    "voice_id": "ATR_B102_080",
+    "speaker": "bg",
+    "text_ja": "「夏生さんは、足を取り戻したら、何がしたかったんですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_080.opus"
+  },
+  {
+    "voice_file": "atr_b102_081.opus",
+    "voice_id": "ATR_B102_081",
+    "speaker": "bg",
+    "text_ja": "「ほら、わたしは夏生さんの足ですし。聞いておこうと思いまして」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_081.opus"
+  },
+  {
+    "voice_file": "atr_b102_082.opus",
+    "voice_id": "ATR_B102_082",
+    "speaker": "bg",
+    "text_ja": "「どどーんとなんなりとお申し付けください！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b102_082.opus"
+  },
+  {
+    "voice_file": "atr_b103_001.opus",
+    "voice_id": "ATR_B103_001",
+    "speaker": "ev",
+    "text_ja": "「寝ながら叫ぶのはヒトとしてなかなか器用な芸ですね……。もしや、脳機能のエラーでしょうか」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_001.opus"
+  },
+  {
+    "voice_file": "atr_b103_002.opus",
+    "voice_id": "ATR_B103_002",
+    "speaker": "ev",
+    "text_ja": "「……夏生さんの脳、修理が必要かも」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_002.opus"
+  },
+  {
+    "voice_file": "atr_b103_003.opus",
+    "voice_id": "ATR_B103_003",
+    "speaker": "ev",
+    "text_ja": "「やってみます」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_003.opus"
+  },
+  {
+    "voice_file": "atr_b103_004.opus",
+    "voice_id": "ATR_B103_004",
+    "speaker": "ev",
+    "text_ja": "「まずはそのびっしょりの汗を拭きますね。風邪をひくと大変です。ヒトは脆くてすぐ故障しますから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_004.opus"
+  },
+  {
+    "voice_file": "atr_b103_005.opus",
+    "voice_id": "ATR_B103_005",
+    "speaker": "ev",
+    "text_ja": "「泣いてますか？まだ痛いですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_005.opus"
+  },
+  {
+    "voice_file": "atr_b103_006.opus",
+    "voice_id": "ATR_B103_006",
+    "speaker": "ev",
+    "text_ja": "「はい、そうですとも！そこにあるそれなんかより、うんと高性能な」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_006.opus"
+  },
+  {
+    "voice_file": "atr_b103_007.opus",
+    "voice_id": "ATR_B103_007",
+    "speaker": "ev",
+    "text_ja": "「おや……？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_007.opus"
+  },
+  {
+    "voice_file": "atr_b103_008.opus",
+    "voice_id": "ATR_B103_008",
+    "speaker": "ev",
+    "text_ja": "「あの……夏生さん。汗を拭いてあげたいのですけど」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_008.opus"
+  },
+  {
+    "voice_file": "atr_b103_009.opus",
+    "voice_id": "ATR_B103_009",
+    "speaker": "ev",
+    "text_ja": "「もしかしてわたしで拭いてますか？それは足ではなくタオルの役目ですよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_009.opus"
+  },
+  {
+    "voice_file": "atr_b103_010.opus",
+    "voice_id": "ATR_B103_010",
+    "speaker": "ev",
+    "text_ja": "「……。学習しました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_010.opus"
+  },
+  {
+    "voice_file": "atr_b103_011.opus",
+    "voice_id": "ATR_B103_011",
+    "speaker": "ev",
+    "text_ja": "「いいですよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_011.opus"
+  },
+  {
+    "voice_file": "atr_b103_012.opus",
+    "voice_id": "ATR_B103_012",
+    "speaker": "ev",
+    "text_ja": "「ふふ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_012.opus"
+  },
+  {
+    "voice_file": "atr_b103_013.opus",
+    "voice_id": "ATR_B103_013",
+    "speaker": "ev",
+    "text_ja": "「おやすみなさい、夏生さん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_013.opus"
+  },
+  {
+    "voice_file": "atr_b103_014.opus",
+    "voice_id": "ATR_B103_014",
+    "speaker": "bg",
+    "text_ja": "「すやすや…………」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_014.opus"
+  },
+  {
+    "voice_file": "atr_b103_015.opus",
+    "voice_id": "ATR_B103_015",
+    "speaker": "bg",
+    "text_ja": "「いやん……夏生さんのエッチぃ……むふふ♪」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_015.opus"
+  },
+  {
+    "voice_file": "atr_b103_016.opus",
+    "voice_id": "ATR_B103_016",
+    "speaker": "bg",
+    "text_ja": "「すやすや……にへへ……夏生さぁん……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_016.opus"
+  },
+  {
+    "voice_file": "atr_b103_019.opus",
+    "voice_id": "ATR_B103_019",
+    "speaker": "bg",
+    "text_ja": "「うぅ～ん…………むにゃむにゃ…………夏生さんのアホぉ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_019.opus"
+  },
+  {
+    "voice_file": "atr_b103_020.opus",
+    "voice_id": "ATR_B103_020",
+    "speaker": "bg",
+    "text_ja": "「うへへ……くすぐったいですぅ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_020.opus"
+  },
+  {
+    "voice_file": "atr_b103_021.opus",
+    "voice_id": "ATR_B103_021",
+    "speaker": "bg",
+    "text_ja": "「アトリですぅ……それロボットへの蔑称ですからぁ……警告２回目ですよぉ……お仕置きのロケットパン……ツ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_021.opus"
+  },
+  {
+    "voice_file": "atr_b103_022.opus",
+    "voice_id": "ATR_B103_022",
+    "speaker": "bgm",
+    "text_ja": "「はわっ……！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_022.opus"
+  },
+  {
+    "voice_file": "atr_b103_023.opus",
+    "voice_id": "ATR_B103_023",
+    "speaker": "bgm",
+    "text_ja": "「あ、そっか……わたし……昨日の夜、ここで夏生さんに抱かれたんでした……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_023.opus"
+  },
+  {
+    "voice_file": "atr_b103_024.opus",
+    "voice_id": "ATR_B103_024",
+    "speaker": "bgm",
+    "text_ja": "「あ……おはようございますぅ、夏生さん……ふわぁ～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_024.opus"
+  },
+  {
+    "voice_file": "atr_b103_025.opus",
+    "voice_id": "ATR_B103_025",
+    "speaker": "bgm",
+    "text_ja": "「わたし低電圧なんでぇ……むにゃむにゃ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_025.opus"
+  },
+  {
+    "voice_file": "atr_b103_026.opus",
+    "voice_id": "ATR_B103_026",
+    "speaker": "bgm",
+    "text_ja": "「ぅぅ、変な姿勢でスリープしてたから、関節がグキグキします……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_026.opus"
+  },
+  {
+    "voice_file": "atr_b103_027.opus",
+    "voice_id": "ATR_B103_027",
+    "speaker": "bgm",
+    "text_ja": "「ふわぁい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_027.opus"
+  },
+  {
+    "voice_file": "atr_b103_028.opus",
+    "voice_id": "ATR_B103_028",
+    "speaker": "bgm",
+    "text_ja": "「？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_028.opus"
+  },
+  {
+    "voice_file": "atr_b103_029.opus",
+    "voice_id": "ATR_B103_029",
+    "speaker": "bgm",
+    "text_ja": "「でしょう！高性能ですからムフン！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b103_029.opus"
+  },
+  {
+    "voice_file": "atr_b111_001.opus",
+    "voice_id": "ATR_B111_001",
+    "speaker": "bg",
+    "text_ja": "「シャカシャカシャコシャコ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_001.opus"
+  },
+  {
+    "voice_file": "atr_b111_002.opus",
+    "voice_id": "ATR_B111_002",
+    "speaker": "bg",
+    "text_ja": "「シャカシャカシャコシャコ……オエッ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_002.opus"
+  },
+  {
+    "voice_file": "atr_b111_003.opus",
+    "voice_id": "ATR_B111_003",
+    "speaker": "bg",
+    "text_ja": "「はふひはん（夏生さん）」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_003.opus"
+  },
+  {
+    "voice_file": "atr_b111_004.opus",
+    "voice_id": "ATR_B111_004",
+    "speaker": "bg",
+    "text_ja": "「奥の方が自分で上手に磨けません。……やってもらってもいいですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_004.opus"
+  },
+  {
+    "voice_file": "atr_b111_005.opus",
+    "voice_id": "ATR_B111_005",
+    "speaker": "bg",
+    "text_ja": "「んあー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_005.opus"
+  },
+  {
+    "voice_file": "atr_b111_006.opus",
+    "voice_id": "ATR_B111_006",
+    "speaker": "bg",
+    "text_ja": "「あーーー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_006.opus"
+  },
+  {
+    "voice_file": "atr_b111_007.opus",
+    "voice_id": "ATR_B111_007",
+    "speaker": "bg",
+    "text_ja": "「がらがらがらがら……ぺっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_007.opus"
+  },
+  {
+    "voice_file": "atr_b111_008.opus",
+    "voice_id": "ATR_B111_008",
+    "speaker": "bg",
+    "text_ja": "「？　所有するロボットのメンテナンスは、持ち主の役目ですよ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_008.opus"
+  },
+  {
+    "voice_file": "atr_b111_009.opus",
+    "voice_id": "ATR_B111_009",
+    "speaker": "bg",
+    "text_ja": "「はい。栄養補給できませんから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_009.opus"
+  },
+  {
+    "voice_file": "atr_b111_010.opus",
+    "voice_id": "ATR_B111_010",
+    "speaker": "bg",
+    "text_ja": "「？　その心配には及びませんよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_010.opus"
+  },
+  {
+    "voice_file": "atr_b111_011.opus",
+    "voice_id": "ATR_B111_011",
+    "speaker": "bg",
+    "text_ja": "「わたしが売却を保留していただきたいのは４５日だけです。その後はどうぞ、納得のプライスで売ってください」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_011.opus"
+  },
+  {
+    "voice_file": "atr_b111_012.opus",
+    "voice_id": "ATR_B111_012",
+    "speaker": "bg",
+    "text_ja": "「でないと新しい足を買えませんよ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_012.opus"
+  },
+  {
+    "voice_file": "atr_b111_013.opus",
+    "voice_id": "ATR_B111_013",
+    "speaker": "bg",
+    "text_ja": "「高性能なわたしにこだわるお気持ちは分かりますが、わたしは足専門ロボットではありません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_013.opus"
+  },
+  {
+    "voice_file": "atr_b111_014.opus",
+    "voice_id": "ATR_B111_014",
+    "speaker": "bg",
+    "text_ja": "「わたしが夏生さんの足でいられるのは、４５日だけです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_014.opus"
+  },
+  {
+    "voice_file": "atr_b111_015.opus",
+    "voice_id": "ATR_B111_015",
+    "speaker": "bg",
+    "text_ja": "「というわけで、カレンダーを用意しましたー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_015.opus"
+  },
+  {
+    "voice_file": "atr_b111_016.opus",
+    "voice_id": "ATR_B111_016",
+    "speaker": "bg",
+    "text_ja": "「名付けて、“アトリと夏生の蜜月カウントダウンカレンダー”」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_016.opus"
+  },
+  {
+    "voice_file": "atr_b111_017.opus",
+    "voice_id": "ATR_B111_017",
+    "speaker": "bg",
+    "text_ja": "「１日１つ、×を付けていきます。昨日の分を書いておきましょう……バツ……と」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_017.opus"
+  },
+  {
+    "voice_file": "atr_b111_018.opus",
+    "voice_id": "ATR_B111_018",
+    "speaker": "bg",
+    "text_ja": "「残り４４日ですねー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_018.opus"
+  },
+  {
+    "voice_file": "atr_b111_019.opus",
+    "voice_id": "ATR_B111_019",
+    "speaker": "bg",
+    "text_ja": "「？　夏生さん？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_019.opus"
+  },
+  {
+    "voice_file": "atr_b111_020.opus",
+    "voice_id": "ATR_B111_020",
+    "speaker": "bgm",
+    "text_ja": "「ハイ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_020.opus"
+  },
+  {
+    "voice_file": "atr_b111_021.opus",
+    "voice_id": "ATR_B111_021",
+    "speaker": "bgm",
+    "text_ja": "「ハイ、ハイッ、ハーーイ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_021.opus"
+  },
+  {
+    "voice_file": "atr_b111_022.opus",
+    "voice_id": "ATR_B111_022",
+    "speaker": "bgm",
+    "text_ja": "「学校へ行きましょう！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_022.opus"
+  },
+  {
+    "voice_file": "atr_b111_023.opus",
+    "voice_id": "ATR_B111_023",
+    "speaker": "bgm",
+    "text_ja": "「理由くらい聞いてくださいよー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_023.opus"
+  },
+  {
+    "voice_file": "atr_b111_024.opus",
+    "voice_id": "ATR_B111_024",
+    "speaker": "bgm",
+    "text_ja": "「わたし、知ってます。学校とは色んな事を学ぶ場所なんでしょう？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_024.opus"
+  },
+  {
+    "voice_file": "atr_b111_025.opus",
+    "voice_id": "ATR_B111_025",
+    "speaker": "bgm",
+    "text_ja": "「いえ、昔……えと……誰かに教わりました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_025.opus"
+  },
+  {
+    "voice_file": "atr_b111_026.opus",
+    "voice_id": "ATR_B111_026",
+    "speaker": "bgm",
+    "text_ja": "「うー……覚えていません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_026.opus"
+  },
+  {
+    "voice_file": "atr_b111_027.opus",
+    "voice_id": "ATR_B111_027",
+    "speaker": "bgm",
+    "text_ja": "「わたし、勉強がしてみたいです！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_027.opus"
+  },
+  {
+    "voice_file": "atr_b111_028.opus",
+    "voice_id": "ATR_B111_028",
+    "speaker": "bgm",
+    "text_ja": "「“学校”って言葉を聞いた時から、なんとなくこう……引っかかっていて」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_028.opus"
+  },
+  {
+    "voice_file": "atr_b111_029.opus",
+    "voice_id": "ATR_B111_029",
+    "speaker": "bgm",
+    "text_ja": "「そこにある気がするんです。わたしの失われたメモリーの断片が」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_029.opus"
+  },
+  {
+    "voice_file": "atr_b111_030.opus",
+    "voice_id": "ATR_B111_030",
+    "speaker": "bgm",
+    "text_ja": "「でも昔、わたしは学校に行ってみたいと……そう願っていた事があったのかもしれない」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_030.opus"
+  },
+  {
+    "voice_file": "atr_b111_031.opus",
+    "voice_id": "ATR_B111_031",
+    "speaker": "bgm",
+    "text_ja": "「ねえ、いいでしょう夏生さん。ねーねーねーねー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_031.opus"
+  },
+  {
+    "voice_file": "atr_b111_032.opus",
+    "voice_id": "ATR_B111_032",
+    "speaker": "bgm",
+    "text_ja": "「また出ました、夏生さんの駄々っ子。駄々っ子ナッちゃん！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_032.opus"
+  },
+  {
+    "voice_file": "atr_b111_033.opus",
+    "voice_id": "ATR_B111_033",
+    "speaker": "bgm",
+    "text_ja": "「ふっふっふ～、聞いて驚いてください。わたしには学習機能があります！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_033.opus"
+  },
+  {
+    "voice_file": "atr_b111_034.opus",
+    "voice_id": "ATR_B111_034",
+    "speaker": "bgm",
+    "text_ja": "「沢山勉強して、立派なロボットになるんです。ヒトから必要とされるような」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_034.opus"
+  },
+  {
+    "voice_file": "atr_b111_035.opus",
+    "voice_id": "ATR_B111_035",
+    "speaker": "bgm",
+    "text_ja": "「４５日しかないからですよ。急がないと」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_035.opus"
+  },
+  {
+    "voice_file": "atr_b111_036.opus",
+    "voice_id": "ATR_B111_036",
+    "speaker": "bgm",
+    "text_ja": "「夏生さんは、どうして学校行くの嫌なんですか？水菜萌に言われた時も駄々っ子でしたよね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_036.opus"
+  },
+  {
+    "voice_file": "atr_b111_037.opus",
+    "voice_id": "ATR_B111_037",
+    "speaker": "bgm",
+    "text_ja": "「勉強がですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_037.opus"
+  },
+  {
+    "voice_file": "atr_b111_038.opus",
+    "voice_id": "ATR_B111_038",
+    "speaker": "bgm",
+    "text_ja": "「じゃあ夏生さんは付いて来てくれるだけでいいです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_038.opus"
+  },
+  {
+    "voice_file": "atr_b111_039.opus",
+    "voice_id": "ATR_B111_039",
+    "speaker": "bgm",
+    "text_ja": "「それはダメです。わたしは夏生さんの足ですから、お側を離れるわけにはいきません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_039.opus"
+  },
+  {
+    "voice_file": "atr_b111_040.opus",
+    "voice_id": "ATR_B111_040",
+    "speaker": "bgm",
+    "text_ja": "「どこ行くんですかー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_040.opus"
+  },
+  {
+    "voice_file": "atr_b111_041.opus",
+    "voice_id": "ATR_B111_041",
+    "speaker": "bgm",
+    "text_ja": "「ええーー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_041.opus"
+  },
+  {
+    "voice_file": "atr_b111_042.opus",
+    "voice_id": "ATR_B111_042",
+    "speaker": "bgm",
+    "text_ja": "「行ってみたいのになぁ……学校……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_042.opus"
+  },
+  {
+    "voice_file": "atr_b111_043.opus",
+    "voice_id": "ATR_B111_043",
+    "speaker": "bgm",
+    "text_ja": "「ここは……どこですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_043.opus"
+  },
+  {
+    "voice_file": "atr_b111_044.opus",
+    "voice_id": "ATR_B111_044",
+    "speaker": "bg",
+    "text_ja": "「半分、水に沈んだ建造物……。あのような斬新な建築はわたしのメモリーにありません……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_044.opus"
+  },
+  {
+    "voice_file": "atr_b111_045.opus",
+    "voice_id": "ATR_B111_045",
+    "speaker": "bgm",
+    "text_ja": "「検索中、検索中……あ、もしかしてここ、学校じゃないですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_045.opus"
+  },
+  {
+    "voice_file": "atr_b111_046.opus",
+    "voice_id": "ATR_B111_046",
+    "speaker": "bgm",
+    "text_ja": "「ふっふっふ、夏生さん失敗しましたね。間違えて学校に来てしまうなんて」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_046.opus"
+  },
+  {
+    "voice_file": "atr_b111_047.opus",
+    "voice_id": "ATR_B111_047",
+    "speaker": "bgm",
+    "text_ja": "「はい、そうするといいです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_047.opus"
+  },
+  {
+    "voice_file": "atr_b111_048.opus",
+    "voice_id": "ATR_B111_048",
+    "speaker": "bgm",
+    "text_ja": "「夏生さん……あいつらは敵対行動に出ようとしてますか。その時はわたしの真の姿を見せねばなりません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_048.opus"
+  },
+  {
+    "voice_file": "atr_b111_049.opus",
+    "voice_id": "ATR_B111_049",
+    "speaker": "bgm",
+    "text_ja": "「夏生さんに手を出すというなら、わたしが相手になります！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_049.opus"
+  },
+  {
+    "voice_file": "atr_b111_050.opus",
+    "voice_id": "ATR_B111_050",
+    "speaker": "bgm",
+    "text_ja": "「ザコ！！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_050.opus"
+  },
+  {
+    "voice_file": "atr_b111_051.opus",
+    "voice_id": "ATR_B111_051",
+    "speaker": "bgm",
+    "text_ja": "「夏生さんまでひどいっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_051.opus"
+  },
+  {
+    "voice_file": "atr_b111_052.opus",
+    "voice_id": "ATR_B111_052",
+    "speaker": "bg",
+    "text_ja": "「そ……そうだったんですか！！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_052.opus"
+  },
+  {
+    "voice_file": "atr_b111_053.opus",
+    "voice_id": "ATR_B111_053",
+    "speaker": "bg",
+    "text_ja": "「……わたしの手からもロケットパンチが出ますよ。ほんとですよ。マシンガンなんかより、うんと強力ですよ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_053.opus"
+  },
+  {
+    "voice_file": "atr_b111_054.opus",
+    "voice_id": "ATR_B111_054",
+    "speaker": "bg",
+    "text_ja": "「あ、わたしが！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_054.opus"
+  },
+  {
+    "voice_file": "atr_b111_055.opus",
+    "voice_id": "ATR_B111_055",
+    "speaker": "bg",
+    "text_ja": "「ちゃんと学習したから平気です」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_055.opus"
+  },
+  {
+    "voice_file": "atr_b111_056.opus",
+    "voice_id": "ATR_B111_056",
+    "speaker": "bg",
+    "text_ja": "「通しません！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_056.opus"
+  },
+  {
+    "voice_file": "atr_b111_057.opus",
+    "voice_id": "ATR_B111_057",
+    "speaker": "bg",
+    "text_ja": "「せっかく学校来たんです！べんきょーするまで帰れません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_057.opus"
+  },
+  {
+    "voice_file": "atr_b111_058.opus",
+    "voice_id": "ATR_B111_058",
+    "speaker": "bg",
+    "text_ja": "「ガッテンです！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_058.opus"
+  },
+  {
+    "voice_file": "atr_b111_059.opus",
+    "voice_id": "ATR_B111_059",
+    "speaker": "bg",
+    "text_ja": "「アトリです。ぺこり」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_059.opus"
+  },
+  {
+    "voice_file": "atr_b111_060.opus",
+    "voice_id": "ATR_B111_060",
+    "speaker": "bg",
+    "text_ja": "「ほほう、これが勉強というやつですか。どれどれ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_060.opus"
+  },
+  {
+    "voice_file": "atr_b111_061.opus",
+    "voice_id": "ATR_B111_061",
+    "speaker": "bg",
+    "text_ja": "「ふむふむ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_061.opus"
+  },
+  {
+    "voice_file": "atr_b111_062.opus",
+    "voice_id": "ATR_B111_062",
+    "speaker": "bg",
+    "text_ja": "「いいじゃないですかー、どうせ使ってないんでしょう？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_062.opus"
+  },
+  {
+    "voice_file": "atr_b111_063.opus",
+    "voice_id": "ATR_B111_063",
+    "speaker": "bg",
+    "text_ja": "「水菜萌せんせー、質問いいですか」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_063.opus"
+  },
+  {
+    "voice_file": "atr_b111_064.opus",
+    "voice_id": "ATR_B111_064",
+    "speaker": "bg",
+    "text_ja": "「これなんですが……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_064.opus"
+  },
+  {
+    "voice_file": "atr_b111_065.opus",
+    "voice_id": "ATR_B111_065",
+    "speaker": "bg",
+    "text_ja": "「水菜萌、先生なのに分からないんですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_065.opus"
+  },
+  {
+    "voice_file": "atr_b111_066.opus",
+    "voice_id": "ATR_B111_066",
+    "speaker": "bg",
+    "text_ja": "「水菜萌は何年生ですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_066.opus"
+  },
+  {
+    "voice_file": "atr_b111_067.opus",
+    "voice_id": "ATR_B111_067",
+    "speaker": "bg",
+    "text_ja": "「ここです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_067.opus"
+  },
+  {
+    "voice_file": "atr_b111_068.opus",
+    "voice_id": "ATR_B111_068",
+    "speaker": "bg",
+    "text_ja": "「なるほどー。ありがとうございます」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b111_068.opus"
+  },
+  {
+    "voice_file": "atr_b112_001.opus",
+    "voice_id": "ATR_B112_001",
+    "speaker": "bgm",
+    "text_ja": "「勉強はもうおしまいですか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_001.opus"
+  },
+  {
+    "voice_file": "atr_b112_002.opus",
+    "voice_id": "ATR_B112_002",
+    "speaker": "bgm",
+    "text_ja": "「べんきょー楽しかったなー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_002.opus"
+  },
+  {
+    "voice_file": "atr_b112_003.opus",
+    "voice_id": "ATR_B112_003",
+    "speaker": "bgm",
+    "text_ja": "「今日だけでめちゃくちゃ賢くなりましたよわたし。スーパーロボットになる日も近いですね！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_003.opus"
+  },
+  {
+    "voice_file": "atr_b112_004.opus",
+    "voice_id": "ATR_B112_004",
+    "speaker": "bgm",
+    "text_ja": "「でしょう。えへへー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_004.opus"
+  },
+  {
+    "voice_file": "atr_b112_005.opus",
+    "voice_id": "ATR_B112_005",
+    "speaker": "bgm",
+    "text_ja": "「明日も学校行きましょうね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_005.opus"
+  },
+  {
+    "voice_file": "atr_b112_006.opus",
+    "voice_id": "ATR_B112_006",
+    "speaker": "bgm",
+    "text_ja": "「？　なんですか？ジッとわたしを見つめて……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_006.opus"
+  },
+  {
+    "voice_file": "atr_b112_007.opus",
+    "voice_id": "ATR_B112_007",
+    "speaker": "bgm",
+    "text_ja": "「……あっ、もしかしてチュウがしたくなりました？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_007.opus"
+  },
+  {
+    "voice_file": "atr_b112_008.opus",
+    "voice_id": "ATR_B112_008",
+    "speaker": "bgm",
+    "text_ja": "「いけませんよ、ヒューマノイドとのそういった行為は、倫理規定に抵触します」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_008.opus"
+  },
+  {
+    "voice_file": "atr_b112_009.opus",
+    "voice_id": "ATR_B112_009",
+    "speaker": "bgm",
+    "text_ja": "「場合によっては没収の対象となりますのでご注意を」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_009.opus"
+  },
+  {
+    "voice_file": "atr_b112_010.opus",
+    "voice_id": "ATR_B112_010",
+    "speaker": "bgm",
+    "text_ja": "「やっぱりしたいんですね！？すでに一度許してるとはいえ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_010.opus"
+  },
+  {
+    "voice_file": "atr_b112_011.opus",
+    "voice_id": "ATR_B112_011",
+    "speaker": "bgm",
+    "text_ja": "「したじゃないですかー、夏生さんが海に落ちた時」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_011.opus"
+  },
+  {
+    "voice_file": "atr_b112_012.opus",
+    "voice_id": "ATR_B112_012",
+    "speaker": "bgm",
+    "text_ja": "「唇と唇を触れ合わせる行為をキスと言います。人と人との愛情表現、とりわけ恋人同士でいたします。夏生さんはもう大きいのにものを知りませんね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_012.opus"
+  },
+  {
+    "voice_file": "atr_b112_013.opus",
+    "voice_id": "ATR_B112_013",
+    "speaker": "bgm",
+    "text_ja": "「勉強はできるようですが、そういった社会常識がないと苦労しますよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_013.opus"
+  },
+  {
+    "voice_file": "atr_b112_014.opus",
+    "voice_id": "ATR_B112_014",
+    "speaker": "bgm",
+    "text_ja": "「ほえ？　もう幾度も経験済みでしたか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_014.opus"
+  },
+  {
+    "voice_file": "atr_b112_015.opus",
+    "voice_id": "ATR_B112_015",
+    "speaker": "bgm",
+    "text_ja": "「？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_015.opus"
+  },
+  {
+    "voice_file": "atr_b112_016.opus",
+    "voice_id": "ATR_B112_016",
+    "speaker": "bgm",
+    "text_ja": "「ですね！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_016.opus"
+  },
+  {
+    "voice_file": "atr_b112_017.opus",
+    "voice_id": "ATR_B112_017",
+    "speaker": "bgm",
+    "text_ja": "「当たり前じゃないですかー。わたしを何だと思ってます？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_017.opus"
+  },
+  {
+    "voice_file": "atr_b112_018.opus",
+    "voice_id": "ATR_B112_018",
+    "speaker": "bgm",
+    "text_ja": "「ふっふっふっふ。今日の夕飯は任せてくださいですよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_018.opus"
+  },
+  {
+    "voice_file": "atr_b112_019.opus",
+    "voice_id": "ATR_B112_019",
+    "speaker": "bgm",
+    "text_ja": "「そうはいきません、まだわたしの真価をお見せできてません！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_019.opus"
+  },
+  {
+    "voice_file": "atr_b112_020.opus",
+    "voice_id": "ATR_B112_020",
+    "speaker": "bgm",
+    "text_ja": "「あ、こんばんは水菜萌」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_020.opus"
+  },
+  {
+    "voice_file": "atr_b112_021.opus",
+    "voice_id": "ATR_B112_021",
+    "speaker": "bgm",
+    "text_ja": "「人間のようなミスをするのは、ある意味わたしが高性能である証で……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_021.opus"
+  },
+  {
+    "voice_file": "atr_b112_022.opus",
+    "voice_id": "ATR_B112_022",
+    "speaker": "bg",
+    "text_ja": "「ロボットにポンコツと言うのは差別発言です！改めない場合、差別禁止法により罰せられ――」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_022.opus"
+  },
+  {
+    "voice_file": "atr_b112_023.opus",
+    "voice_id": "ATR_B112_023",
+    "speaker": "bg",
+    "text_ja": "「はぐあッ！！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_023.opus"
+  },
+  {
+    "voice_file": "atr_b112_024.opus",
+    "voice_id": "ATR_B112_024",
+    "speaker": "bg",
+    "text_ja": "「あわわわっ、ロボットに対する暴力行為は、それはそれで違反行為で、懲役３年以下のぉぉ～～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_024.opus"
+  },
+  {
+    "voice_file": "atr_b112_025.opus",
+    "voice_id": "ATR_B112_025",
+    "speaker": "bg",
+    "text_ja": "「ち……陳謝しますから、それだけはご勘弁を……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_025.opus"
+  },
+  {
+    "voice_file": "atr_b112_026.opus",
+    "voice_id": "ATR_B112_026",
+    "speaker": "bgm",
+    "text_ja": "「ぐべっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_026.opus"
+  },
+  {
+    "voice_file": "atr_b112_027.opus",
+    "voice_id": "ATR_B112_027",
+    "speaker": "bgm",
+    "text_ja": "「はわわ……ひどい目に遭いました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_027.opus"
+  },
+  {
+    "voice_file": "atr_b112_064.opus",
+    "voice_id": "ATR_B112_064",
+    "speaker": "bg",
+    "text_ja": "「？　お話に夢中だったので、てっきりもうお腹いっぱいなんだと」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_064.opus"
+  },
+  {
+    "voice_file": "atr_b112_079.opus",
+    "voice_id": "ATR_B112_079",
+    "speaker": "bgm",
+    "text_ja": "「とりあえずはいてみようと思います」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b112_079.opus"
+  },
+  {
+    "voice_file": "atr_b113_033.opus",
+    "voice_id": "ATR_B113_033",
+    "speaker": "bgm",
+    "text_ja": "「わたしの必殺技の威力はどうですか？これでも手加減した方ですよ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b113_033.opus"
+  },
+  {
+    "voice_file": "atr_b113_034.opus",
+    "voice_id": "ATR_B113_034",
+    "speaker": "bgm",
+    "text_ja": "「本気を出せばこうです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b113_034.opus"
+  },
+  {
+    "voice_file": "atr_b113_035.opus",
+    "voice_id": "ATR_B113_035",
+    "speaker": "bgm",
+    "text_ja": "「ふぬぬぬ～～……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b113_035.opus"
+  },
+  {
+    "voice_file": "atr_b114_082.opus",
+    "voice_id": "ATR_B114_082",
+    "speaker": "bgm",
+    "text_ja": "「わかりましたー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b114_082.opus"
+  },
+  {
+    "voice_file": "atr_b121_004.opus",
+    "voice_id": "ATR_B121_004",
+    "speaker": "bgm",
+    "text_ja": "「ほんとですか？夏生さんが褒めてくれましたよ、水菜萌」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b121_004.opus"
+  },
+  {
+    "voice_file": "atr_b203_001.opus",
+    "voice_id": "ATR_B203_001",
+    "speaker": "bgm",
+    "text_ja": "「そうです……。わたしを避けてると言いますか……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b203_001.opus"
+  },
+  {
+    "voice_file": "atr_b203_002.opus",
+    "voice_id": "ATR_B203_002",
+    "speaker": "bgm",
+    "text_ja": "「わたしは夏生さんと一緒にいたいのに、夏生さんはそうじゃないみたいで……。どうしたらいいと思いますか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b203_002.opus"
+  },
+  {
+    "voice_file": "atr_b203_003.opus",
+    "voice_id": "ATR_B203_003",
+    "speaker": "bgm",
+    "text_ja": "「？　そういうのでは」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b203_003.opus"
+  },
+  {
+    "voice_file": "atr_b203_004.opus",
+    "voice_id": "ATR_B203_004",
+    "speaker": "bg",
+    "text_ja": "「……そういう事でいいです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b203_004.opus"
+  },
+  {
+    "voice_file": "atr_b203_006.opus",
+    "voice_id": "ATR_B203_006",
+    "speaker": "bgm",
+    "text_ja": "「それは、夏生さんのためになる事を言ってるのに、夏生さんが駄々っ子ナッちゃんになってしまうからです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b203_006.opus"
+  },
+  {
+    "voice_file": "atr_b205_027.opus",
+    "voice_id": "ATR_B205_027",
+    "speaker": "bg",
+    "text_ja": "「あたたた、ぐりぐりしないでぇ～～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b205_027.opus"
+  },
+  {
+    "voice_file": "atr_b205_028.opus",
+    "voice_id": "ATR_B205_028",
+    "speaker": "bg",
+    "text_ja": "「なるほどー、学習しました。はい、夏生さんも一口どーぞ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b205_028.opus"
+  },
+  {
+    "voice_file": "atr_b206_023.opus",
+    "voice_id": "ATR_B206_023",
+    "speaker": "bg",
+    "text_ja": "「むむーー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b206_023.opus"
+  },
+  {
+    "voice_file": "atr_b206_026.opus",
+    "voice_id": "ATR_B206_026",
+    "speaker": "bg",
+    "text_ja": "「む～～、泳げません。というか浮きません」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b206_026.opus"
+  },
+  {
+    "voice_file": "atr_b207_064.opus",
+    "voice_id": "ATR_B207_064",
+    "speaker": "bgm",
+    "text_ja": "「ン……！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b207_064.opus"
+  },
+  {
+    "voice_file": "atr_b207_065.opus",
+    "voice_id": "ATR_B207_065",
+    "speaker": "bgm",
+    "text_ja": "「ン……ンン…………」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b207_065.opus"
+  },
+  {
+    "voice_file": "atr_b304_020.opus",
+    "voice_id": "ATR_B304_020",
+    "speaker": "bg",
+    "text_ja": "「明日はわたしが取りにいきます。早く元気になります」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_020.opus"
+  },
+  {
+    "voice_file": "atr_b304_125.opus",
+    "voice_id": "ATR_B304_125",
+    "speaker": "bgm",
+    "text_ja": "「なるほど」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_125.opus"
+  },
+  {
+    "voice_file": "atr_b304_128.opus",
+    "voice_id": "ATR_B304_128",
+    "speaker": "bg",
+    "text_ja": "「すみません夏生さん……手が滑ってしまいました」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_128.opus"
+  },
+  {
+    "voice_file": "atr_b304_129.opus",
+    "voice_id": "ATR_B304_129",
+    "speaker": "bg",
+    "text_ja": "「はいバカですポンコツです。反省します」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_129.opus"
+  },
+  {
+    "voice_file": "atr_b304_130.opus",
+    "voice_id": "ATR_B304_130",
+    "speaker": "bgm",
+    "text_ja": "「……ッ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_130.opus"
+  },
+  {
+    "voice_file": "atr_b304_132.opus",
+    "voice_id": "ATR_B304_132",
+    "speaker": "bgm",
+    "text_ja": "「……ログがないんです」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_132.opus"
+  },
+  {
+    "voice_file": "atr_b304_133.opus",
+    "voice_id": "ATR_B304_133",
+    "speaker": "bgm",
+    "text_ja": "「夏生さんにサルベージしていただいてから、１日も欠かさずに付けていたのに……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_133.opus"
+  },
+  {
+    "voice_file": "atr_b304_134.opus",
+    "voice_id": "ATR_B304_134",
+    "speaker": "bgm",
+    "text_ja": "「はい……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b304_134.opus"
+  },
+  {
+    "voice_file": "atr_b999_001.opus",
+    "voice_id": "ATR_B999_001",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_001.opus"
+  },
+  {
+    "voice_file": "atr_b999_002.opus",
+    "voice_id": "ATR_B999_002",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_002.opus"
+  },
+  {
+    "voice_file": "atr_b999_003.opus",
+    "voice_id": "ATR_B999_003",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_003.opus"
+  },
+  {
+    "voice_file": "atr_b999_004.opus",
+    "voice_id": "ATR_B999_004",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_004.opus"
+  },
+  {
+    "voice_file": "atr_b999_005.opus",
+    "voice_id": "ATR_B999_005",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_005.opus"
+  },
+  {
+    "voice_file": "atr_b999_006.opus",
+    "voice_id": "ATR_B999_006",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_006.opus"
+  },
+  {
+    "voice_file": "atr_b999_007.opus",
+    "voice_id": "ATR_B999_007",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_007.opus"
+  },
+  {
+    "voice_file": "atr_b999_008.opus",
+    "voice_id": "ATR_B999_008",
+    "speaker": "bg",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_008.opus"
+  },
+  {
+    "voice_file": "atr_b999_009.opus",
+    "voice_id": "ATR_B999_009",
+    "speaker": "bgm",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_009.opus"
+  },
+  {
+    "voice_file": "atr_b999_010.opus",
+    "voice_id": "ATR_B999_010",
+    "speaker": "bgm",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_010.opus"
+  },
+  {
+    "voice_file": "atr_b999_011.opus",
+    "voice_id": "ATR_B999_011",
+    "speaker": "bgm",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_011.opus"
+  },
+  {
+    "voice_file": "atr_b999_012.opus",
+    "voice_id": "ATR_B999_012",
+    "speaker": "bgm",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_012.opus"
+  },
+  {
+    "voice_file": "atr_b999_013.opus",
+    "voice_id": "ATR_B999_013",
+    "speaker": "bgm",
+    "text_ja": "アトリ",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\atr_b999_013.opus"
+  },
+  {
+    "voice_file": "cat_b101_001.opus",
+    "voice_id": "CAT_B101_001",
+    "speaker": "bg",
+    "text_ja": "「起きた？うなされてたわよ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_001.opus"
+  },
+  {
+    "voice_file": "cat_b101_002.opus",
+    "voice_id": "CAT_B101_002",
+    "speaker": "bg",
+    "text_ja": "「いつも人相が悪いけど、寝起きだと一層ひどいわね。気の弱い子供なら、睨まれただけで泣いちゃいそう」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_002.opus"
+  },
+  {
+    "voice_file": "cat_b101_003.opus",
+    "voice_id": "CAT_B101_003",
+    "speaker": "ev",
+    "text_ja": "「今度こそ飛ぶのかねぇ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_003.opus"
+  },
+  {
+    "voice_file": "cat_b101_004.opus",
+    "voice_id": "CAT_B101_004",
+    "speaker": "ev",
+    "text_ja": "「ふぅん、だといいけど。花火を打ち上げるゆとりがあるなら、あたしら庶民の暮らしをどうにかしなさいよってね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_004.opus"
+  },
+  {
+    "voice_file": "cat_b101_005.opus",
+    "voice_id": "CAT_B101_005",
+    "speaker": "bgm",
+    "text_ja": "「いい天気ね。絶好の潜水日和だわ。早速始める？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_005.opus"
+  },
+  {
+    "voice_file": "cat_b101_006.opus",
+    "voice_id": "CAT_B101_006",
+    "speaker": "bg",
+    "text_ja": "「うーい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_006.opus"
+  },
+  {
+    "voice_file": "cat_b101_007.opus",
+    "voice_id": "CAT_B101_007",
+    "speaker": "bg",
+    "text_ja": "「あんたこそ誰よ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_007.opus"
+  },
+  {
+    "voice_file": "cat_b101_008.opus",
+    "voice_id": "CAT_B101_008",
+    "speaker": "bg",
+    "text_ja": "「ふぅん、あいつ友達なんかいたんだ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_008.opus"
+  },
+  {
+    "voice_file": "cat_b101_009.opus",
+    "voice_id": "CAT_B101_009",
+    "speaker": "bg",
+    "text_ja": "「あたし？うんとねぇ……愛人？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_009.opus"
+  },
+  {
+    "voice_file": "cat_b101_010.opus",
+    "voice_id": "CAT_B101_010",
+    "speaker": "bg",
+    "text_ja": "「ただのビジネスパートナーよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_010.opus"
+  },
+  {
+    "voice_file": "cat_b101_011.opus",
+    "voice_id": "CAT_B101_011",
+    "speaker": "bg",
+    "text_ja": "「坊やはね、働かなきゃいけないの。一攫千金のために。ガキんちょは帰んな」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_011.opus"
+  },
+  {
+    "voice_file": "cat_b101_012.opus",
+    "voice_id": "CAT_B101_012",
+    "speaker": "bgm",
+    "text_ja": "「あたしが教えてやんよ。来てみ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_012.opus"
+  },
+  {
+    "voice_file": "cat_b101_013.opus",
+    "voice_id": "CAT_B101_013",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_013.opus"
+  },
+  {
+    "voice_file": "cat_b101_014.opus",
+    "voice_id": "CAT_B101_014",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_014.opus"
+  },
+  {
+    "voice_file": "cat_b101_015.opus",
+    "voice_id": "CAT_B101_015",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_015.opus"
+  },
+  {
+    "voice_file": "cat_b101_016.opus",
+    "voice_id": "CAT_B101_016",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_016.opus"
+  },
+  {
+    "voice_file": "cat_b101_017.opus",
+    "voice_id": "CAT_B101_017",
+    "speaker": "bg3",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_017.opus"
+  },
+  {
+    "voice_file": "cat_b101_018.opus",
+    "voice_id": "CAT_B101_018",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_018.opus"
+  },
+  {
+    "voice_file": "cat_b101_019.opus",
+    "voice_id": "CAT_B101_019",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_019.opus"
+  },
+  {
+    "voice_file": "cat_b101_020.opus",
+    "voice_id": "CAT_B101_020",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_020.opus"
+  },
+  {
+    "voice_file": "cat_b101_021.opus",
+    "voice_id": "CAT_B101_021",
+    "speaker": "bg",
+    "text_ja": "キャサリン",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_021.opus"
+  },
+  {
+    "voice_file": "cat_b101_022.opus",
+    "voice_id": "CAT_B101_022",
+    "speaker": "bgm",
+    "text_ja": "「ふぃぃ……あんたがムチャするから、転覆するかと思ったわ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_022.opus"
+  },
+  {
+    "voice_file": "cat_b101_023.opus",
+    "voice_id": "CAT_B101_023",
+    "speaker": "bgm",
+    "text_ja": "「やけに急いでるわねぇ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_023.opus"
+  },
+  {
+    "voice_file": "cat_b101_024.opus",
+    "voice_id": "CAT_B101_024",
+    "speaker": "bgm",
+    "text_ja": "「こいつはお宝を見付けたわね！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_024.opus"
+  },
+  {
+    "voice_file": "cat_b101_025.opus",
+    "voice_id": "CAT_B101_025",
+    "speaker": "bgm",
+    "text_ja": "「おっこちるわよ！あんたその足じゃ泳げないでしょっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_025.opus"
+  },
+  {
+    "voice_file": "cat_b101_026.opus",
+    "voice_id": "CAT_B101_026",
+    "speaker": "bgm",
+    "text_ja": "「債務者を逃がさないのがあたしの仕事だからね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_026.opus"
+  },
+  {
+    "voice_file": "cat_b101_027.opus",
+    "voice_id": "CAT_B101_027",
+    "speaker": "bgm",
+    "text_ja": "「ところでさぁ、この小娘は何モン？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_027.opus"
+  },
+  {
+    "voice_file": "cat_b101_028.opus",
+    "voice_id": "CAT_B101_028",
+    "speaker": "bg",
+    "text_ja": "「ヒューマノイドね！あの婆さん、こんな物隠し持ってたの！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_028.opus"
+  },
+  {
+    "voice_file": "cat_b101_029.opus",
+    "voice_id": "CAT_B101_029",
+    "speaker": "bgm",
+    "text_ja": "「でかしたわ坊や！こいつは、高く売れるわよ～♪」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_029.opus"
+  },
+  {
+    "voice_file": "cat_b101_030.opus",
+    "voice_id": "CAT_B101_030",
+    "speaker": "bgm",
+    "text_ja": "「当たり前でしょう、そのためにサルベージしたんだから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_030.opus"
+  },
+  {
+    "voice_file": "cat_b101_031.opus",
+    "voice_id": "CAT_B101_031",
+    "speaker": "bgm",
+    "text_ja": "「今じゃ珍しくなったからねぇ。ふっかけりゃ八千草博士の借金をチャラにして、余裕でおつりがくるわね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_031.opus"
+  },
+  {
+    "voice_file": "cat_b101_032.opus",
+    "voice_id": "CAT_B101_032",
+    "speaker": "bgm",
+    "text_ja": "「マスター？　あぁ、八千草博士ね。博士なら……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_032.opus"
+  },
+  {
+    "voice_file": "cat_b101_033.opus",
+    "voice_id": "CAT_B101_033",
+    "speaker": "bgm",
+    "text_ja": "「ロボットなんだから、これでも感情表現豊かな方でしょ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_033.opus"
+  },
+  {
+    "voice_file": "cat_b101_034.opus",
+    "voice_id": "CAT_B101_034",
+    "speaker": "bgm",
+    "text_ja": "「でも安心して！婆さんの遺産はこいつが相続した。つまり今のマスターはこの坊や」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b101_034.opus"
+  },
+  {
+    "voice_file": "cat_b102_001.opus",
+    "voice_id": "CAT_B102_001",
+    "speaker": "bgm",
+    "text_ja": "「さて、あたしらも行こうか」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_001.opus"
+  },
+  {
+    "voice_file": "cat_b102_002.opus",
+    "voice_id": "CAT_B102_002",
+    "speaker": "bgm",
+    "text_ja": "「町よ。そいつを売らなきゃいけないでしょ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_002.opus"
+  },
+  {
+    "voice_file": "cat_b102_003.opus",
+    "voice_id": "CAT_B102_003",
+    "speaker": "bgm",
+    "text_ja": "「どこで売るかはさておき、だいたいの値段だけ先に見積もっておきたいわ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_003.opus"
+  },
+  {
+    "voice_file": "cat_b102_004.opus",
+    "voice_id": "CAT_B102_004",
+    "speaker": "bg",
+    "text_ja": "「いいねぇ、こういうゴミゴミした場所は好きよ。あたしみたいなのが紛れてても、目立ちにくいからね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_004.opus"
+  },
+  {
+    "voice_file": "cat_b102_005.opus",
+    "voice_id": "CAT_B102_005",
+    "speaker": "bgm",
+    "text_ja": "「……ねえ、あれなんとかならないの」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_005.opus"
+  },
+  {
+    "voice_file": "cat_b102_006.opus",
+    "voice_id": "CAT_B102_006",
+    "speaker": "bgm",
+    "text_ja": "「印象が悪い。端から見ると人買いみたいよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_006.opus"
+  },
+  {
+    "voice_file": "cat_b102_007.opus",
+    "voice_id": "CAT_B102_007",
+    "speaker": "bgm",
+    "text_ja": "「後にしなさい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_007.opus"
+  },
+  {
+    "voice_file": "cat_b102_008.opus",
+    "voice_id": "CAT_B102_008",
+    "speaker": "bg",
+    "text_ja": "「なるほどね、足が汚れてちゃ売値が下がっちゃうものね。気が利くじゃないの坊や」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_008.opus"
+  },
+  {
+    "voice_file": "cat_b102_009.opus",
+    "voice_id": "CAT_B102_009",
+    "speaker": "bg",
+    "text_ja": "「早くしなさいよ、どれでも一緒でしょ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_009.opus"
+  },
+  {
+    "voice_file": "cat_b102_010.opus",
+    "voice_id": "CAT_B102_010",
+    "speaker": "bg",
+    "text_ja": "「面倒くさいわね。もう、あんたが決めてあげなさいな」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_010.opus"
+  },
+  {
+    "voice_file": "cat_b102_011.opus",
+    "voice_id": "CAT_B102_011",
+    "speaker": "bg",
+    "text_ja": "「よかったわね。さ、いくわよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_011.opus"
+  },
+  {
+    "voice_file": "cat_b102_012.opus",
+    "voice_id": "CAT_B102_012",
+    "speaker": "bg",
+    "text_ja": "「ダメよ！　何を言い出すかと思ったらダメに決まってんでしょうがっ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_012.opus"
+  },
+  {
+    "voice_file": "cat_b102_013.opus",
+    "voice_id": "CAT_B102_013",
+    "speaker": "bg",
+    "text_ja": "「さあ、行くわよ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_013.opus"
+  },
+  {
+    "voice_file": "cat_b102_014.opus",
+    "voice_id": "CAT_B102_014",
+    "speaker": "bg",
+    "text_ja": "「都市でもそうそう見かけない上物よ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_014.opus"
+  },
+  {
+    "voice_file": "cat_b102_015.opus",
+    "voice_id": "CAT_B102_015",
+    "speaker": "bg",
+    "text_ja": "「言われなくても、仕事が片付いたら出ていくわよ。それで、いくらになりそう？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_015.opus"
+  },
+  {
+    "voice_file": "cat_b102_016.opus",
+    "voice_id": "CAT_B102_016",
+    "speaker": "bg",
+    "text_ja": "「どうしてよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_016.opus"
+  },
+  {
+    "voice_file": "cat_b102_017.opus",
+    "voice_id": "CAT_B102_017",
+    "speaker": "bg",
+    "text_ja": "「いいや、そんなはずないね。稼動するヒューマノイドよ、リコール品でもいい値が付くはず！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_017.opus"
+  },
+  {
+    "voice_file": "cat_b102_018.opus",
+    "voice_id": "CAT_B102_018",
+    "speaker": "bg",
+    "text_ja": "「これが、八千草博士の借用書」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_018.opus"
+  },
+  {
+    "voice_file": "cat_b102_019.opus",
+    "voice_id": "CAT_B102_019",
+    "speaker": "bg",
+    "text_ja": "「でしょうね。正直、あんたにそれは期待してないわ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_019.opus"
+  },
+  {
+    "voice_file": "cat_b102_020.opus",
+    "voice_id": "CAT_B102_020",
+    "speaker": "bg",
+    "text_ja": "「かといって手ぶらじゃ帰れない。あたしだってプロですからね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_020.opus"
+  },
+  {
+    "voice_file": "cat_b102_021.opus",
+    "voice_id": "CAT_B102_021",
+    "speaker": "bg",
+    "text_ja": "「協力しましょ。そうしたら、お互いにいい思いができるから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_021.opus"
+  },
+  {
+    "voice_file": "cat_b102_022.opus",
+    "voice_id": "CAT_B102_022",
+    "speaker": "bg",
+    "text_ja": "「八千草博士の遺産をサルベージしたいの。博士は高価な何かを倉庫に仕舞ったまま、海に沈めてしまった」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_022.opus"
+  },
+  {
+    "voice_file": "cat_b102_023.opus",
+    "voice_id": "CAT_B102_023",
+    "speaker": "bg",
+    "text_ja": "「それを引き揚げて、山分けしましょ。それで借金はチャラって事で」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_023.opus"
+  },
+  {
+    "voice_file": "cat_b102_024.opus",
+    "voice_id": "CAT_B102_024",
+    "speaker": "bg",
+    "text_ja": "「どうかしら、坊や」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_024.opus"
+  },
+  {
+    "voice_file": "cat_b102_025.opus",
+    "voice_id": "CAT_B102_025",
+    "speaker": "bg",
+    "text_ja": "「勝った！人生の賭けに勝った！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_025.opus"
+  },
+  {
+    "voice_file": "cat_b102_026.opus",
+    "voice_id": "CAT_B102_026",
+    "speaker": "bg",
+    "text_ja": "「チッ……まぁ、しょうがないわね。時間はどのくらいかかる？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_026.opus"
+  },
+  {
+    "voice_file": "cat_b102_027.opus",
+    "voice_id": "CAT_B102_027",
+    "speaker": "bg",
+    "text_ja": "「結構かかるわね。なるべく高く買ってくれる相手を見付けてよね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_027.opus"
+  },
+  {
+    "voice_file": "cat_b102_028.opus",
+    "voice_id": "CAT_B102_028",
+    "speaker": "bg",
+    "text_ja": "「あたしも行くからね。持ち逃げされちゃたまらないから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_028.opus"
+  },
+  {
+    "voice_file": "cat_b102_029.opus",
+    "voice_id": "CAT_B102_029",
+    "speaker": "bg",
+    "text_ja": "「さーて、腹ごしらえでもするかね。朝からリンゴしか食べてないし」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_029.opus"
+  },
+  {
+    "voice_file": "cat_b102_030.opus",
+    "voice_id": "CAT_B102_030",
+    "speaker": "bg2",
+    "text_ja": "「ロボットに当たるんじゃないわよ、みっともない」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_030.opus"
+  },
+  {
+    "voice_file": "cat_b102_031.opus",
+    "voice_id": "CAT_B102_031",
+    "speaker": "bg2",
+    "text_ja": "「ほいじゃ、ジャンク屋が買い手を見付けるまで、この子はあたしが預かっておくわ。さ、来なさい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_031.opus"
+  },
+  {
+    "voice_file": "cat_b102_033.opus",
+    "voice_id": "CAT_B102_033",
+    "speaker": "bg2",
+    "text_ja": "「はぁ？　バカ言ってんじゃないわよ。あんたがこいつを連れて逃げないって保証、どこにあるのよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_033.opus"
+  },
+  {
+    "voice_file": "cat_b102_034.opus",
+    "voice_id": "CAT_B102_034",
+    "speaker": "bg2",
+    "text_ja": "「あたしが連れてても、マスターのあんたがいなきゃどうにもできないんだから、一緒じゃないでしょ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_034.opus"
+  },
+  {
+    "voice_file": "cat_b102_035.opus",
+    "voice_id": "CAT_B102_035",
+    "speaker": "bgm",
+    "text_ja": "「また連絡するわ。あーお腹空いたー、何食べよっかなぁ～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\cat_b102_035.opus"
+  },
+  {
+    "voice_file": "min_b101_001.opus",
+    "voice_id": "MIN_B101_001",
+    "speaker": "bg",
+    "text_ja": "「こ……こんにちはーー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_001.opus"
+  },
+  {
+    "voice_file": "min_b101_002.opus",
+    "voice_id": "MIN_B101_002",
+    "speaker": "bg",
+    "text_ja": "「ナツくーーん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_002.opus"
+  },
+  {
+    "voice_file": "min_b101_003.opus",
+    "voice_id": "MIN_B101_003",
+    "speaker": "bg",
+    "text_ja": "「……寝てるのかな。呼び鈴付けてくんないかなぁ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_003.opus"
+  },
+  {
+    "voice_file": "min_b101_004.opus",
+    "voice_id": "MIN_B101_004",
+    "speaker": "bg",
+    "text_ja": "「あ、ナツく……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_004.opus"
+  },
+  {
+    "voice_file": "min_b101_005.opus",
+    "voice_id": "MIN_B101_005",
+    "speaker": "bg",
+    "text_ja": "「……誰っ！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_005.opus"
+  },
+  {
+    "voice_file": "min_b101_006.opus",
+    "voice_id": "MIN_B101_006",
+    "speaker": "bg",
+    "text_ja": "「えとえと……ナツくんのお友達の、神白水菜萌です」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_006.opus"
+  },
+  {
+    "voice_file": "min_b101_007.opus",
+    "voice_id": "MIN_B101_007",
+    "speaker": "bg",
+    "text_ja": "「あの、お姉さんはいったい……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_007.opus"
+  },
+  {
+    "voice_file": "min_b101_008.opus",
+    "voice_id": "MIN_B101_008",
+    "speaker": "bg",
+    "text_ja": "「あ・い・じ・ん！！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_008.opus"
+  },
+  {
+    "voice_file": "min_b101_009.opus",
+    "voice_id": "MIN_B101_009",
+    "speaker": "bg",
+    "text_ja": "「？　……つまり、どういう関係なの……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_009.opus"
+  },
+  {
+    "voice_file": "min_b101_010.opus",
+    "voice_id": "MIN_B101_010",
+    "speaker": "bg",
+    "text_ja": "「ナツくん、学校いこ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_010.opus"
+  },
+  {
+    "voice_file": "min_b101_011.opus",
+    "voice_id": "MIN_B101_011",
+    "speaker": "bg",
+    "text_ja": "「転校してきてから一度も登校してないよね？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_011.opus"
+  },
+  {
+    "voice_file": "min_b101_012.opus",
+    "voice_id": "MIN_B101_012",
+    "speaker": "bg",
+    "text_ja": "「ぴ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_012.opus"
+  },
+  {
+    "voice_file": "min_b101_013.opus",
+    "voice_id": "MIN_B101_013",
+    "speaker": "bg",
+    "text_ja": "「？　暇じゃないよ。学校いかなきゃだから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_013.opus"
+  },
+  {
+    "voice_file": "min_b101_014.opus",
+    "voice_id": "MIN_B101_014",
+    "speaker": "bg",
+    "text_ja": "「え……賢くなるために行くんでしょ？？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_014.opus"
+  },
+  {
+    "voice_file": "min_b101_015.opus",
+    "voice_id": "MIN_B101_015",
+    "speaker": "bg",
+    "text_ja": "「あ、待ってよナツくんっ。ねえ、ナツくぅ～～ん！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_015.opus"
+  },
+  {
+    "voice_file": "min_b101_016.opus",
+    "voice_id": "MIN_B101_016",
+    "speaker": "bgm",
+    "text_ja": "「ついて来ちゃった……学校あるのに」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_016.opus"
+  },
+  {
+    "voice_file": "min_b101_017.opus",
+    "voice_id": "MIN_B101_017",
+    "speaker": "bgm",
+    "text_ja": "「わ……わかんない」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_017.opus"
+  },
+  {
+    "voice_file": "min_b101_018.opus",
+    "voice_id": "MIN_B101_018",
+    "speaker": "bgm",
+    "text_ja": "「ぴ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_018.opus"
+  },
+  {
+    "voice_file": "min_b101_019.opus",
+    "voice_id": "MIN_B101_019",
+    "speaker": "bg",
+    "text_ja": "「その子、大丈夫なの……よく見ると錆び錆びだけど」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_019.opus"
+  },
+  {
+    "voice_file": "min_b101_020.opus",
+    "voice_id": "MIN_B101_020",
+    "speaker": "bg",
+    "text_ja": "「いやダメでしょ。沈んじゃうよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_020.opus"
+  },
+  {
+    "voice_file": "min_b101_021.opus",
+    "voice_id": "MIN_B101_021",
+    "speaker": "bg",
+    "text_ja": "「…………」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_021.opus"
+  },
+  {
+    "voice_file": "min_b101_022.opus",
+    "voice_id": "MIN_B101_022",
+    "speaker": "bg",
+    "text_ja": "『ナツくんっ』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_022.opus"
+  },
+  {
+    "voice_file": "min_b101_023.opus",
+    "voice_id": "MIN_B101_023",
+    "speaker": "bg",
+    "text_ja": "『無事なの？　元気にしてる？水漏れしてない？』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_023.opus"
+  },
+  {
+    "voice_file": "min_b101_024.opus",
+    "voice_id": "MIN_B101_024",
+    "speaker": "bg",
+    "text_ja": "『できれば早めに帰ってきてくれると嬉しいな……』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_024.opus"
+  },
+  {
+    "voice_file": "min_b101_025.opus",
+    "voice_id": "MIN_B101_025",
+    "speaker": "bg",
+    "text_ja": "『じゃなくて、学校遅刻しちゃうっ』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_025.opus"
+  },
+  {
+    "voice_file": "min_b101_026.opus",
+    "voice_id": "MIN_B101_026",
+    "speaker": "bg",
+    "text_ja": "『……サボったのばれたら、お母さんに怒られるぅ……』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_026.opus"
+  },
+  {
+    "voice_file": "min_b101_027.opus",
+    "voice_id": "MIN_B101_027",
+    "speaker": "bg",
+    "text_ja": "『はえっ！？……ナツくんに急に褒められたぁ』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_027.opus"
+  },
+  {
+    "voice_file": "min_b101_028.opus",
+    "voice_id": "MIN_B101_028",
+    "speaker": "bg",
+    "text_ja": "『どうしたのナツくん？何かあった？』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_028.opus"
+  },
+  {
+    "voice_file": "min_b101_029.opus",
+    "voice_id": "MIN_B101_029",
+    "speaker": "bg",
+    "text_ja": "『わ、わかった！　えいっ』",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_029.opus"
+  },
+  {
+    "voice_file": "min_b101_030.opus",
+    "voice_id": "MIN_B101_030",
+    "speaker": "bgm",
+    "text_ja": "「？　……あっ、戻ってきた！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_030.opus"
+  },
+  {
+    "voice_file": "min_b101_031.opus",
+    "voice_id": "MIN_B101_031",
+    "speaker": "bgm",
+    "text_ja": "「危ないよナツくんっ、何してるのっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_031.opus"
+  },
+  {
+    "voice_file": "min_b101_032.opus",
+    "voice_id": "MIN_B101_032",
+    "speaker": "bgm",
+    "text_ja": "「あの子？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_032.opus"
+  },
+  {
+    "voice_file": "min_b101_033.opus",
+    "voice_id": "MIN_B101_033",
+    "speaker": "bg",
+    "text_ja": "「えっ、誰？？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_033.opus"
+  },
+  {
+    "voice_file": "min_b101_034.opus",
+    "voice_id": "MIN_B101_034",
+    "speaker": "bg",
+    "text_ja": "「よがっだぁぁ～～！ナツくん死んじゃったかと思ったぁぁぁ～～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_034.opus"
+  },
+  {
+    "voice_file": "min_b101_035.opus",
+    "voice_id": "MIN_B101_035",
+    "speaker": "bg",
+    "text_ja": "「グスン……ううん、私じゃないよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_035.opus"
+  },
+  {
+    "voice_file": "min_b101_036.opus",
+    "voice_id": "MIN_B101_036",
+    "speaker": "bgm",
+    "text_ja": "「この子、どこから来たの？潜る時、一緒じゃなかったよね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_036.opus"
+  },
+  {
+    "voice_file": "min_b101_037.opus",
+    "voice_id": "MIN_B101_037",
+    "speaker": "bgm",
+    "text_ja": "「？　どういう事？？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_037.opus"
+  },
+  {
+    "voice_file": "min_b101_038.opus",
+    "voice_id": "MIN_B101_038",
+    "speaker": "bgm",
+    "text_ja": "「……この子、ロボットなんだ。すごーい、全然見えない」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_038.opus"
+  },
+  {
+    "voice_file": "min_b101_039.opus",
+    "voice_id": "MIN_B101_039",
+    "speaker": "bgm",
+    "text_ja": "「ええっ、売っちゃうの！！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_039.opus"
+  },
+  {
+    "voice_file": "min_b101_040.opus",
+    "voice_id": "MIN_B101_040",
+    "speaker": "bgm",
+    "text_ja": "「で、でもぉ、そういうのはダメなんじゃないかな。その……なんとなく……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_040.opus"
+  },
+  {
+    "voice_file": "min_b101_041.opus",
+    "voice_id": "MIN_B101_041",
+    "speaker": "bgm",
+    "text_ja": "「ほらー、この子もこう言ってるよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_041.opus"
+  },
+  {
+    "voice_file": "min_b101_042.opus",
+    "voice_id": "MIN_B101_042",
+    "speaker": "bgm",
+    "text_ja": "「なんか軽い」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b101_042.opus"
+  },
+  {
+    "voice_file": "min_b102_001.opus",
+    "voice_id": "MIN_B102_001",
+    "speaker": "bg",
+    "text_ja": "「ううー、すごく気になるけど学校行かなきゃだからっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_001.opus"
+  },
+  {
+    "voice_file": "min_b102_002.opus",
+    "voice_id": "MIN_B102_002",
+    "speaker": "bg",
+    "text_ja": "「あと、明日は絶対学校来てね、クラスで話し合いたい事があるのっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_002.opus"
+  },
+  {
+    "voice_file": "min_b102_003.opus",
+    "voice_id": "MIN_B102_003",
+    "speaker": "bg",
+    "text_ja": "「あーんもぉ、大遅刻だよぉ～～っ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_003.opus"
+  },
+  {
+    "voice_file": "min_b102_004.opus",
+    "voice_id": "MIN_B102_004",
+    "speaker": "bg",
+    "text_ja": "「あ、ナツくんだ。おーーーーい！！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_004.opus"
+  },
+  {
+    "voice_file": "min_b102_005.opus",
+    "voice_id": "MIN_B102_005",
+    "speaker": "bg",
+    "text_ja": "「ほらナツくんいたよ。迎えに来てくれたんだよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_005.opus"
+  },
+  {
+    "voice_file": "min_b102_006.opus",
+    "voice_id": "MIN_B102_006",
+    "speaker": "bgm",
+    "text_ja": "「お母さんに頼まれて、夕飯の買い物に行く途中で見付けたの」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_006.opus"
+  },
+  {
+    "voice_file": "min_b102_007.opus",
+    "voice_id": "MIN_B102_007",
+    "speaker": "bgm",
+    "text_ja": "「あのね、アトリちゃん迷子になってたんだよ。ナツくん捜して、町中を歩き回ってたんだって」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_007.opus"
+  },
+  {
+    "voice_file": "min_b102_008.opus",
+    "voice_id": "MIN_B102_008",
+    "speaker": "bg2",
+    "text_ja": "「よかったね、アトリちゃん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_008.opus"
+  },
+  {
+    "voice_file": "min_b102_009.opus",
+    "voice_id": "MIN_B102_009",
+    "speaker": "bg2",
+    "text_ja": "「えへへ、どういたしまして。もう迷子になっちゃダメだよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_009.opus"
+  },
+  {
+    "voice_file": "min_b102_010.opus",
+    "voice_id": "MIN_B102_010",
+    "speaker": "bg2",
+    "text_ja": "「じゃーね、バイバイ。あ、ナツくん、明日は学校来てね。学級会やるから～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b102_010.opus"
+  },
+  {
+    "voice_file": "min_b111_001.opus",
+    "voice_id": "MIN_B111_001",
+    "speaker": "bg",
+    "text_ja": "「問題できた人から言いに来てねー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_001.opus"
+  },
+  {
+    "voice_file": "min_b111_002.opus",
+    "voice_id": "MIN_B111_002",
+    "speaker": "bg",
+    "text_ja": "「はいはい、授業に集中しようね。ていうか凜々花どこいっちゃったのかしら……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_002.opus"
+  },
+  {
+    "voice_file": "min_b111_003.opus",
+    "voice_id": "MIN_B111_003",
+    "speaker": "bgm",
+    "text_ja": "「どこ行ってたの凜々花！授業中でしょ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_003.opus"
+  },
+  {
+    "voice_file": "min_b111_004.opus",
+    "voice_id": "MIN_B111_004",
+    "speaker": "bgm",
+    "text_ja": "「よしよし泣かないの。あいつって？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_004.opus"
+  },
+  {
+    "voice_file": "min_b111_005.opus",
+    "voice_id": "MIN_B111_005",
+    "speaker": "bgm",
+    "text_ja": "「あ、ナツくんだ。来てくれたんだー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_005.opus"
+  },
+  {
+    "voice_file": "min_b111_006.opus",
+    "voice_id": "MIN_B111_006",
+    "speaker": "bgm",
+    "text_ja": "「ナツくんはそんな事しないよ。ヒットマンってナツくんの事だったの？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_006.opus"
+  },
+  {
+    "voice_file": "min_b111_007.opus",
+    "voice_id": "MIN_B111_007",
+    "speaker": "bg",
+    "text_ja": "「たしかに……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_007.opus"
+  },
+  {
+    "voice_file": "min_b111_008.opus",
+    "voice_id": "MIN_B111_008",
+    "speaker": "bgm",
+    "text_ja": "「わー、待って待って、冗談だよぉっ。凜々花、ナツくんを止めてっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_008.opus"
+  },
+  {
+    "voice_file": "min_b111_009.opus",
+    "voice_id": "MIN_B111_009",
+    "speaker": "bgm",
+    "text_ja": "「えっとね、うちの学校……今先生がいないんだ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_009.opus"
+  },
+  {
+    "voice_file": "min_b111_010.opus",
+    "voice_id": "MIN_B111_010",
+    "speaker": "bgm",
+    "text_ja": "「先月で辞めちゃってね。新しい先生も来てくれないから……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_010.opus"
+  },
+  {
+    "voice_file": "min_b111_011.opus",
+    "voice_id": "MIN_B111_011",
+    "speaker": "bg",
+    "text_ja": "「ほんとはもっといるんだよ。でも、学校行く意味ないだろうって」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_011.opus"
+  },
+  {
+    "voice_file": "min_b111_012.opus",
+    "voice_id": "MIN_B111_012",
+    "speaker": "bgm",
+    "text_ja": "「できない子もいるんだよ。家に居場所がなかったり、手伝いしなきゃいけなかったり……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_012.opus"
+  },
+  {
+    "voice_file": "min_b111_013.opus",
+    "voice_id": "MIN_B111_013",
+    "speaker": "bg",
+    "text_ja": "「やっと起きた。授業中だよリュウちゃん」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_013.opus"
+  },
+  {
+    "voice_file": "min_b111_014.opus",
+    "voice_id": "MIN_B111_014",
+    "speaker": "bg",
+    "text_ja": "「私が先生です」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_014.opus"
+  },
+  {
+    "voice_file": "min_b111_015.opus",
+    "voice_id": "MIN_B111_015",
+    "speaker": "bgm",
+    "text_ja": "「この人がナツくんだよ。ほら、こないだ言ってた転校生」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_015.opus"
+  },
+  {
+    "voice_file": "min_b111_016.opus",
+    "voice_id": "MIN_B111_016",
+    "speaker": "bgm",
+    "text_ja": "「ナツくん、あの人は野島竜司君。みんなリュウちゃんって呼んでるけど」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_016.opus"
+  },
+  {
+    "voice_file": "min_b111_017.opus",
+    "voice_id": "MIN_B111_017",
+    "speaker": "bgm",
+    "text_ja": "「それで、その子が……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_017.opus"
+  },
+  {
+    "voice_file": "min_b111_018.opus",
+    "voice_id": "MIN_B111_018",
+    "speaker": "bgm",
+    "text_ja": "「はいはい、みんな席について。アトリちゃんを見習って、真面目に勉強しようね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_018.opus"
+  },
+  {
+    "voice_file": "min_b111_019.opus",
+    "voice_id": "MIN_B111_019",
+    "speaker": "bg",
+    "text_ja": "「どこかな」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_019.opus"
+  },
+  {
+    "voice_file": "min_b111_020.opus",
+    "voice_id": "MIN_B111_020",
+    "speaker": "bg",
+    "text_ja": "「そこはねぇ、うーんとねぇ……えっとぉ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_020.opus"
+  },
+  {
+    "voice_file": "min_b111_021.opus",
+    "voice_id": "MIN_B111_021",
+    "speaker": "bg",
+    "text_ja": "「グサッ。ち、ちがうんだよ、それリュウちゃんの教科書でしょ？リュウちゃんは３年生だから」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_021.opus"
+  },
+  {
+    "voice_file": "min_b111_022.opus",
+    "voice_id": "MIN_B111_022",
+    "speaker": "bg",
+    "text_ja": "「私は１年生だよ。だからまだ全然習ってないとこなの……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_022.opus"
+  },
+  {
+    "voice_file": "min_b111_023.opus",
+    "voice_id": "MIN_B111_023",
+    "speaker": "bg",
+    "text_ja": "「ねぇ、リュウちゃん。ここ分かる？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_023.opus"
+  },
+  {
+    "voice_file": "min_b111_024.opus",
+    "voice_id": "MIN_B111_024",
+    "speaker": "bg",
+    "text_ja": "「習ってても、リュウちゃんの事だから、真面目に授業受けてないしね……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_024.opus"
+  },
+  {
+    "voice_file": "min_b111_025.opus",
+    "voice_id": "MIN_B111_025",
+    "speaker": "bg",
+    "text_ja": "「でもこれ３年生のだよ。ナツくんまだ２年生だよね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_025.opus"
+  },
+  {
+    "voice_file": "min_b111_026.opus",
+    "voice_id": "MIN_B111_026",
+    "speaker": "bg",
+    "text_ja": "「ナツくんすごーい。どうしてわかるのー？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_026.opus"
+  },
+  {
+    "voice_file": "min_b111_027.opus",
+    "voice_id": "MIN_B111_027",
+    "speaker": "bg",
+    "text_ja": "「ねぇ、ナツくん……実は私も、分かんないところがあるんだけど」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_027.opus"
+  },
+  {
+    "voice_file": "min_b111_028.opus",
+    "voice_id": "MIN_B111_028",
+    "speaker": "bg",
+    "text_ja": "「ありがとう！　ちょっと待ってね、ここと……ここと……ここと……それから……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_028.opus"
+  },
+  {
+    "voice_file": "min_b111_029.opus",
+    "voice_id": "MIN_B111_029",
+    "speaker": "bg",
+    "text_ja": "「ナツくんすごい……天才だよっ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_029.opus"
+  },
+  {
+    "voice_file": "min_b111_030.opus",
+    "voice_id": "MIN_B111_030",
+    "speaker": "bg",
+    "text_ja": "「リュウちゃん、ナツくんにも色々あったんだよ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b111_030.opus"
+  },
+  {
+    "voice_file": "min_b112_001.opus",
+    "voice_id": "MIN_B112_001",
+    "speaker": "bgm",
+    "text_ja": "「いけない、もうこんな時間だ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_001.opus"
+  },
+  {
+    "voice_file": "min_b112_002.opus",
+    "voice_id": "MIN_B112_002",
+    "speaker": "bg",
+    "text_ja": "「はーい、今日はここまでー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_002.opus"
+  },
+  {
+    "voice_file": "min_b112_003.opus",
+    "voice_id": "MIN_B112_003",
+    "speaker": "bgm",
+    "text_ja": "「……それはナツくんのシゴキがハードだったからだよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_003.opus"
+  },
+  {
+    "voice_file": "min_b112_004.opus",
+    "voice_id": "MIN_B112_004",
+    "speaker": "bgm",
+    "text_ja": "「あははー……今日は沢山勉強できたなー……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_004.opus"
+  },
+  {
+    "voice_file": "min_b112_005.opus",
+    "voice_id": "MIN_B112_005",
+    "speaker": "bgm",
+    "text_ja": "「みんな、気をつけて帰るんだよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_005.opus"
+  },
+  {
+    "voice_file": "min_b112_006.opus",
+    "voice_id": "MIN_B112_006",
+    "speaker": "bgm",
+    "text_ja": "「さようなら」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_006.opus"
+  },
+  {
+    "voice_file": "min_b112_007.opus",
+    "voice_id": "MIN_B112_007",
+    "speaker": "bgm",
+    "text_ja": "「頼み？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_007.opus"
+  },
+  {
+    "voice_file": "min_b112_008.opus",
+    "voice_id": "MIN_B112_008",
+    "speaker": "bg",
+    "text_ja": "「……ふぅ、色々準備してたら遅くなっちゃった」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_008.opus"
+  },
+  {
+    "voice_file": "min_b112_009.opus",
+    "voice_id": "MIN_B112_009",
+    "speaker": "bgm",
+    "text_ja": "「ナツくん、もう夕飯食べちゃったかなぁ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_009.opus"
+  },
+  {
+    "voice_file": "min_b112_010.opus",
+    "voice_id": "MIN_B112_010",
+    "speaker": "bgm",
+    "text_ja": "「はえっ！！？な、なんか争ってる！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_010.opus"
+  },
+  {
+    "voice_file": "min_b112_011.opus",
+    "voice_id": "MIN_B112_011",
+    "speaker": "bg",
+    "text_ja": "「ケンカしちゃダメーーーー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_011.opus"
+  },
+  {
+    "voice_file": "min_b112_012.opus",
+    "voice_id": "MIN_B112_012",
+    "speaker": "bg",
+    "text_ja": "「…………？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_012.opus"
+  },
+  {
+    "voice_file": "min_b112_013.opus",
+    "voice_id": "MIN_B112_013",
+    "speaker": "bg",
+    "text_ja": "「こ……これはいったい！！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_013.opus"
+  },
+  {
+    "voice_file": "min_b112_014.opus",
+    "voice_id": "MIN_B112_014",
+    "speaker": "bgm",
+    "text_ja": "「こんばんは……これはいったい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_014.opus"
+  },
+  {
+    "voice_file": "min_b112_015.opus",
+    "voice_id": "MIN_B112_015",
+    "speaker": "bgm",
+    "text_ja": "「どうしちゃったの……ハッ、まさか、アトリちゃんのプログラムが暴走してビーストモードに」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_015.opus"
+  },
+  {
+    "voice_file": "min_b112_016.opus",
+    "voice_id": "MIN_B112_016",
+    "speaker": "bgm",
+    "text_ja": "「いやこれ……ヘタってレベルじゃ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_016.opus"
+  },
+  {
+    "voice_file": "min_b112_017.opus",
+    "voice_id": "MIN_B112_017",
+    "speaker": "bgm",
+    "text_ja": "「……ナツくんの本気の怒りを見た。こわい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b112_017.opus"
+  },
+  {
+    "voice_file": "min_b114_012.opus",
+    "voice_id": "MIN_B114_012",
+    "speaker": "bgm",
+    "text_ja": "「ふふ、いい子でしょ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b114_012.opus"
+  },
+  {
+    "voice_file": "min_b114_013.opus",
+    "voice_id": "MIN_B114_013",
+    "speaker": "bgm",
+    "text_ja": "「素敵でしょう」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b114_013.opus"
+  },
+  {
+    "voice_file": "min_b114_014.opus",
+    "voice_id": "MIN_B114_014",
+    "speaker": "bgm",
+    "text_ja": "「だって心配なんだもん。また決闘しそうで」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b114_014.opus"
+  },
+  {
+    "voice_file": "min_b123_015.opus",
+    "voice_id": "MIN_B123_015",
+    "speaker": "bgm",
+    "text_ja": "「だって……夜がこんなに明るいのって、町が海に沈んで以来なんだよ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b123_015.opus"
+  },
+  {
+    "voice_file": "min_b203_001.opus",
+    "voice_id": "MIN_B203_001",
+    "speaker": "bg",
+    "text_ja": "「ナツくんが最近ヘン？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b203_001.opus"
+  },
+  {
+    "voice_file": "min_b203_002.opus",
+    "voice_id": "MIN_B203_002",
+    "speaker": "bgm",
+    "text_ja": "「こ、これは……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b203_002.opus"
+  },
+  {
+    "voice_file": "min_b203_003.opus",
+    "voice_id": "MIN_B203_003",
+    "speaker": "bgm",
+    "text_ja": "「恋愛相談だね！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b203_003.opus"
+  },
+  {
+    "voice_file": "min_b203_004.opus",
+    "voice_id": "MIN_B203_004",
+    "speaker": "bgm",
+    "text_ja": "「恋愛相談だよね！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b203_004.opus"
+  },
+  {
+    "voice_file": "min_b203_005.opus",
+    "voice_id": "MIN_B203_005",
+    "speaker": "bgm",
+    "text_ja": "「でもよく言い合いっこしてるよね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\min_b203_005.opus"
+  },
+  {
+    "voice_file": "rir_b111_001.opus",
+    "voice_id": "RIR_B111_001",
+    "speaker": "bgm",
+    "text_ja": "「あっ……ヒットマンだ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_001.opus"
+  },
+  {
+    "voice_file": "rir_b111_002.opus",
+    "voice_id": "RIR_B111_002",
+    "speaker": "bg",
+    "text_ja": "「ほら、あそこ！武器持ってて、子分も連れてる！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_002.opus"
+  },
+  {
+    "voice_file": "rir_b111_003.opus",
+    "voice_id": "RIR_B111_003",
+    "speaker": "bgm",
+    "text_ja": "「あ、あいつ逃げるぞ！噂ほどじゃないなー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_003.opus"
+  },
+  {
+    "voice_file": "rir_b111_004.opus",
+    "voice_id": "RIR_B111_004",
+    "speaker": "bg",
+    "text_ja": "「や……殺られるっ！！？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_004.opus"
+  },
+  {
+    "voice_file": "rir_b111_005.opus",
+    "voice_id": "RIR_B111_005",
+    "speaker": "bg",
+    "text_ja": "「あたしが行ってくる」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_005.opus"
+  },
+  {
+    "voice_file": "rir_b111_006.opus",
+    "voice_id": "RIR_B111_006",
+    "speaker": "bg",
+    "text_ja": "「任せとけ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_006.opus"
+  },
+  {
+    "voice_file": "rir_b111_007.opus",
+    "voice_id": "RIR_B111_007",
+    "speaker": "bgm",
+    "text_ja": "「来てやったぞヒットマン！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_007.opus"
+  },
+  {
+    "voice_file": "rir_b111_008.opus",
+    "voice_id": "RIR_B111_008",
+    "speaker": "bgm",
+    "text_ja": "「ザコは引っ込んでろ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_008.opus"
+  },
+  {
+    "voice_file": "rir_b111_009.opus",
+    "voice_id": "RIR_B111_009",
+    "speaker": "bg",
+    "text_ja": "「ヒットマン、あたしと勝負しろ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_009.opus"
+  },
+  {
+    "voice_file": "rir_b111_010.opus",
+    "voice_id": "RIR_B111_010",
+    "speaker": "bg",
+    "text_ja": "「町の人たちが噂してた……。おまえは殺し屋で、３人くらい殺して町に逃げてきたって」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_010.opus"
+  },
+  {
+    "voice_file": "rir_b111_011.opus",
+    "voice_id": "RIR_B111_011",
+    "speaker": "bg",
+    "text_ja": "「杖がライフルで、足にマシンガンを仕込んでるんだろ？全部知ってるんだからな！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_011.opus"
+  },
+  {
+    "voice_file": "rir_b111_012.opus",
+    "voice_id": "RIR_B111_012",
+    "speaker": "bgm",
+    "text_ja": "「そうだ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_012.opus"
+  },
+  {
+    "voice_file": "rir_b111_013.opus",
+    "voice_id": "RIR_B111_013",
+    "speaker": "bgm",
+    "text_ja": "「え、えっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_013.opus"
+  },
+  {
+    "voice_file": "rir_b111_014.opus",
+    "voice_id": "RIR_B111_014",
+    "speaker": "bgm",
+    "text_ja": "「お、おいっ、ダメだぞ、入っちゃ！？学校にはみんながいるんだぞ、みなもちゃんもっ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_014.opus"
+  },
+  {
+    "voice_file": "rir_b111_015.opus",
+    "voice_id": "RIR_B111_015",
+    "speaker": "bgm",
+    "text_ja": "「みなもちゃんを狙ってるのかぁ～～！？ごめんみなもちゃん……うぅ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_015.opus"
+  },
+  {
+    "voice_file": "rir_b111_016.opus",
+    "voice_id": "RIR_B111_016",
+    "speaker": "bgm",
+    "text_ja": "「ひぐっ、えぐっ……おまえなんか、リュウちゃんがやっつけてくれる！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_016.opus"
+  },
+  {
+    "voice_file": "rir_b111_017.opus",
+    "voice_id": "RIR_B111_017",
+    "speaker": "bgm",
+    "text_ja": "「くっそーー、みんなごめんなっ！！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_017.opus"
+  },
+  {
+    "voice_file": "rir_b111_018.opus",
+    "voice_id": "RIR_B111_018",
+    "speaker": "bg",
+    "text_ja": "「そうだ！　くっそう、絶対許さないからなっ！くそうくそう」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_018.opus"
+  },
+  {
+    "voice_file": "rir_b111_019.opus",
+    "voice_id": "RIR_B111_019",
+    "speaker": "bgm",
+    "text_ja": "「みなもちゃんに何する気だ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_019.opus"
+  },
+  {
+    "voice_file": "rir_b111_020.opus",
+    "voice_id": "RIR_B111_020",
+    "speaker": "bgm",
+    "text_ja": "「ハッ、さては好きなんだな！みなもちゃん可愛いもんな！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_020.opus"
+  },
+  {
+    "voice_file": "rir_b111_021.opus",
+    "voice_id": "RIR_B111_021",
+    "speaker": "bgm",
+    "text_ja": "「もしかして……告白しに来たのか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_021.opus"
+  },
+  {
+    "voice_file": "rir_b111_022.opus",
+    "voice_id": "RIR_B111_022",
+    "speaker": "bgm",
+    "text_ja": "「みんな逃げてーー！！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_022.opus"
+  },
+  {
+    "voice_file": "rir_b111_023.opus",
+    "voice_id": "RIR_B111_023",
+    "speaker": "bgm",
+    "text_ja": "「逃げて、ヒットマンが来た！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_023.opus"
+  },
+  {
+    "voice_file": "rir_b111_024.opus",
+    "voice_id": "RIR_B111_024",
+    "speaker": "bgm",
+    "text_ja": "「みなもちゃん、危ない隠れてっ。あいつはみなもちゃんを狙ってるんだぁ～～」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_024.opus"
+  },
+  {
+    "voice_file": "rir_b111_025.opus",
+    "voice_id": "RIR_B111_025",
+    "speaker": "bgm",
+    "text_ja": "「ヒットマン」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_025.opus"
+  },
+  {
+    "voice_file": "rir_b111_026.opus",
+    "voice_id": "RIR_B111_026",
+    "speaker": "bgm",
+    "text_ja": "「近づいちゃダメだ、殺られる」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_026.opus"
+  },
+  {
+    "voice_file": "rir_b111_027.opus",
+    "voice_id": "RIR_B111_027",
+    "speaker": "bgm",
+    "text_ja": "「うん。だってあいつ、３人くらい殺してる目してる」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_027.opus"
+  },
+  {
+    "voice_file": "rir_b111_028.opus",
+    "voice_id": "RIR_B111_028",
+    "speaker": "bg",
+    "text_ja": "「ここは通さないぞ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_028.opus"
+  },
+  {
+    "voice_file": "rir_b111_029.opus",
+    "voice_id": "RIR_B111_029",
+    "speaker": "bg",
+    "text_ja": "「おい子分、取り押さえろ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_029.opus"
+  },
+  {
+    "voice_file": "rir_b111_030.opus",
+    "voice_id": "RIR_B111_030",
+    "speaker": "bg",
+    "text_ja": "「うーー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_030.opus"
+  },
+  {
+    "voice_file": "rir_b111_031.opus",
+    "voice_id": "RIR_B111_031",
+    "speaker": "bg",
+    "text_ja": "「あたしは無力だーーーーーっ！！！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b111_031.opus"
+  },
+  {
+    "voice_file": "rir_b112_001.opus",
+    "voice_id": "RIR_B112_001",
+    "speaker": "bg",
+    "text_ja": "「ヒットマン……鬼だ……鬼ヒットマンだ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b112_001.opus"
+  },
+  {
+    "voice_file": "rir_b112_002.opus",
+    "voice_id": "RIR_B112_002",
+    "speaker": "bgm",
+    "text_ja": "「おー、また明日なー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b112_002.opus"
+  },
+  {
+    "voice_file": "rir_b114_059.opus",
+    "voice_id": "RIR_B114_059",
+    "speaker": "bgm",
+    "text_ja": "「わーー！船に住んでんだ、かっけーー」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b114_059.opus"
+  },
+  {
+    "voice_file": "rir_b114_060.opus",
+    "voice_id": "RIR_B114_060",
+    "speaker": "bgm",
+    "text_ja": "「なつき先生のおうち、見てみたかったんだー！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b114_060.opus"
+  },
+  {
+    "voice_file": "rir_b203_001.opus",
+    "voice_id": "RIR_B203_001",
+    "speaker": "bgm",
+    "text_ja": "「みなもちゃん……圧がすごいよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b203_001.opus"
+  },
+  {
+    "voice_file": "rir_b203_002.opus",
+    "voice_id": "RIR_B203_002",
+    "speaker": "bgm",
+    "text_ja": "「アトリん、なつき先生と喧嘩したのか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\rir_b203_002.opus"
+  },
+  {
+    "voice_file": "ryu_b111_001.opus",
+    "voice_id": "RYU_B111_001",
+    "speaker": "bg",
+    "text_ja": "「うっせえぞ、静かにしろ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_001.opus"
+  },
+  {
+    "voice_file": "ryu_b111_002.opus",
+    "voice_id": "RYU_B111_002",
+    "speaker": "bg",
+    "text_ja": "「なーにが授業だよ。先生もいねーのに」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_002.opus"
+  },
+  {
+    "voice_file": "ryu_b111_003.opus",
+    "voice_id": "RYU_B111_003",
+    "speaker": "bg",
+    "text_ja": "「……誰だてめえ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_003.opus"
+  },
+  {
+    "voice_file": "ryu_b111_004.opus",
+    "voice_id": "RYU_B111_004",
+    "speaker": "bg",
+    "text_ja": "「…………いや、マジで誰だよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_004.opus"
+  },
+  {
+    "voice_file": "ryu_b111_005.opus",
+    "voice_id": "RYU_B111_005",
+    "speaker": "bg",
+    "text_ja": "「勝手に見るな」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_005.opus"
+  },
+  {
+    "voice_file": "ryu_b111_006.opus",
+    "voice_id": "RYU_B111_006",
+    "speaker": "bg",
+    "text_ja": "「……チッ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_006.opus"
+  },
+  {
+    "voice_file": "ryu_b111_007.opus",
+    "voice_id": "RYU_B111_007",
+    "speaker": "bg",
+    "text_ja": "「んだよ、ケンカ売ってんのか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_007.opus"
+  },
+  {
+    "voice_file": "ryu_b111_008.opus",
+    "voice_id": "RYU_B111_008",
+    "speaker": "bg",
+    "text_ja": "「……けっ、嫌味なヤロウだ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_008.opus"
+  },
+  {
+    "voice_file": "ryu_b111_009.opus",
+    "voice_id": "RYU_B111_009",
+    "speaker": "bg",
+    "text_ja": "「あぁ？　分かるわけねーだろ。俺だって習ってねーし」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_009.opus"
+  },
+  {
+    "voice_file": "ryu_b111_010.opus",
+    "voice_id": "RYU_B111_010",
+    "speaker": "bg",
+    "text_ja": "「……人に物を尋ねる態度かそれ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_010.opus"
+  },
+  {
+    "voice_file": "ryu_b111_011.opus",
+    "voice_id": "RYU_B111_011",
+    "speaker": "bg",
+    "text_ja": "「ぐっ……カッコつけやがって」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_011.opus"
+  },
+  {
+    "voice_file": "ryu_b111_012.opus",
+    "voice_id": "RYU_B111_012",
+    "speaker": "bg",
+    "text_ja": "「あぁ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_012.opus"
+  },
+  {
+    "voice_file": "ryu_b111_013.opus",
+    "voice_id": "RYU_B111_013",
+    "speaker": "bg",
+    "text_ja": "「はぁあぁ！？　いらねーしっ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_013.opus"
+  },
+  {
+    "voice_file": "ryu_b111_014.opus",
+    "voice_id": "RYU_B111_014",
+    "speaker": "bg",
+    "text_ja": "「……いきなり来て、先生気取りかよ。しかも年下のくせに」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_014.opus"
+  },
+  {
+    "voice_file": "ryu_b111_015.opus",
+    "voice_id": "RYU_B111_015",
+    "speaker": "bg",
+    "text_ja": "「おまえ……すげーヤツだな」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_015.opus"
+  },
+  {
+    "voice_file": "ryu_b111_016.opus",
+    "voice_id": "RYU_B111_016",
+    "speaker": "bg",
+    "text_ja": "「褒めてねーよ。つーか俺らが勉強なんかしたって無駄だろ。なんの役に立つ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_016.opus"
+  },
+  {
+    "voice_file": "ryu_b111_017.opus",
+    "voice_id": "RYU_B111_017",
+    "speaker": "bg",
+    "text_ja": "「ここにいる中に、大学へ行ける人間がいると思ってんのか？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_017.opus"
+  },
+  {
+    "voice_file": "ryu_b111_018.opus",
+    "voice_id": "RYU_B111_018",
+    "speaker": "bg",
+    "text_ja": "「大学なんて行けるのは一部のエリート連中。それ以外が勉強なんざ頑張ったって、何の役にも立たねえ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_018.opus"
+  },
+  {
+    "voice_file": "ryu_b111_019.opus",
+    "voice_id": "RYU_B111_019",
+    "speaker": "bg",
+    "text_ja": "「つまり、時間の無駄ってこった」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_019.opus"
+  },
+  {
+    "voice_file": "ryu_b111_020.opus",
+    "voice_id": "RYU_B111_020",
+    "speaker": "bg",
+    "text_ja": "「だいたいよぉ、そんなに勉強が大事なら、なんでおまえはこんなところにいるんだ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_020.opus"
+  },
+  {
+    "voice_file": "ryu_b111_021.opus",
+    "voice_id": "RYU_B111_021",
+    "speaker": "bg",
+    "text_ja": "「アカデミー？　とかいうエラい学校でお勉強してりゃよかっただろうが」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_021.opus"
+  },
+  {
+    "voice_file": "ryu_b111_022.opus",
+    "voice_id": "RYU_B111_022",
+    "speaker": "bg",
+    "text_ja": "「……悪かった、ついむきになっちまって」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_022.opus"
+  },
+  {
+    "voice_file": "ryu_b111_023.opus",
+    "voice_id": "RYU_B111_023",
+    "speaker": "bgm",
+    "text_ja": "「かったりーから帰るわ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b111_023.opus"
+  },
+  {
+    "voice_file": "ryu_b114_019.opus",
+    "voice_id": "RYU_B114_019",
+    "speaker": "bg",
+    "text_ja": "「おう、遅くなっても大丈夫だ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b114_019.opus"
+  },
+  {
+    "voice_file": "ryu_b114_020.opus",
+    "voice_id": "RYU_B114_020",
+    "speaker": "bg",
+    "text_ja": "「わ、わかった」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b114_020.opus"
+  },
+  {
+    "voice_file": "ryu_b114_021.opus",
+    "voice_id": "RYU_B114_021",
+    "speaker": "bgm",
+    "text_ja": "「……急に握手してきたり、家に誘ったり。変なヤツだな」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b114_021.opus"
+  },
+  {
+    "voice_file": "ryu_b114_022.opus",
+    "voice_id": "RYU_B114_022",
+    "speaker": "bgm",
+    "text_ja": "「まだわかんねーよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b114_022.opus"
+  },
+  {
+    "voice_file": "ryu_b114_023.opus",
+    "voice_id": "RYU_B114_023",
+    "speaker": "bgm",
+    "text_ja": "「ここがおまえんちか」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b114_023.opus"
+  },
+  {
+    "voice_file": "ryu_b114_024.opus",
+    "voice_id": "RYU_B114_024",
+    "speaker": "bgm",
+    "text_ja": "「なんでおまえらまで付いてきてんだよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b114_024.opus"
+  },
+  {
+    "voice_file": "ryu_b123_029.opus",
+    "voice_id": "RYU_B123_029",
+    "speaker": "bgm",
+    "text_ja": "「ああ、ほんとにな……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b123_029.opus"
+  },
+  {
+    "voice_file": "ryu_b206_007.opus",
+    "voice_id": "RYU_B206_007",
+    "speaker": "bg",
+    "text_ja": "「ぶわっははははははははははは！いいぞナツ～～～～その調子だ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b206_007.opus"
+  },
+  {
+    "voice_file": "ryu_b304_001.opus",
+    "voice_id": "RYU_B304_001",
+    "speaker": "bg",
+    "text_ja": "「ナツ！　アトリ！！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b304_001.opus"
+  },
+  {
+    "voice_file": "ryu_b304_002.opus",
+    "voice_id": "RYU_B304_002",
+    "speaker": "bgm",
+    "text_ja": "「無事でよかった……死んじまったかと思ったぞ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\ryu_b304_002.opus"
+  },
+  {
+    "voice_file": "xxb_b111_001.opus",
+    "voice_id": "XXB_B111_001",
+    "speaker": "bg",
+    "text_ja": "「敵が攻めてきたってほんと？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxb_b111_001.opus"
+  },
+  {
+    "voice_file": "xxb_b111_002.opus",
+    "voice_id": "XXB_B111_002",
+    "speaker": "bg",
+    "text_ja": "「こわいよぉ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxb_b111_002.opus"
+  },
+  {
+    "voice_file": "xxb_b111_003.opus",
+    "voice_id": "XXB_B111_003",
+    "speaker": "bg",
+    "text_ja": "「気をつけてね……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxb_b111_003.opus"
+  },
+  {
+    "voice_file": "xxb_b111_004.opus",
+    "voice_id": "XXB_B111_004",
+    "speaker": "bg",
+    "text_ja": "「ヒットマンが……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxb_b111_004.opus"
+  },
+  {
+    "voice_file": "xxb_b112_001.opus",
+    "voice_id": "XXB_B112_001",
+    "speaker": "bg",
+    "text_ja": "「ワタシベンキョーダイスキ……ワタシベンキョーダイスキ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxb_b112_001.opus"
+  },
+  {
+    "voice_file": "xxb_b112_002.opus",
+    "voice_id": "XXB_B112_002",
+    "speaker": "bgm",
+    "text_ja": "「さようなら、みなも先生」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxb_b112_002.opus"
+  },
+  {
+    "voice_file": "xxd_b102_001.opus",
+    "voice_id": "XXD_B102_001",
+    "speaker": "bg",
+    "text_ja": "「なんてザマだい……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_001.opus"
+  },
+  {
+    "voice_file": "xxd_b102_002.opus",
+    "voice_id": "XXD_B102_002",
+    "speaker": "bg",
+    "text_ja": "「挙げ句、逃げ帰ってきたんだろう？誰に似ちまったのかねぇ……いや、あたしのせいか……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_002.opus"
+  },
+  {
+    "voice_file": "xxd_b102_003.opus",
+    "voice_id": "XXD_B102_003",
+    "speaker": "bg",
+    "text_ja": "「でもま、帰ってきてくれてよかったよ。夏生、あんたにあたしの研究を継いでほしい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_003.opus"
+  },
+  {
+    "voice_file": "xxd_b102_004.opus",
+    "voice_id": "XXD_B102_004",
+    "speaker": "bg",
+    "text_ja": "「海に呑み込まれてなんもかんも失っちまったけれど、でもまだ終わっちゃいないんだ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_004.opus"
+  },
+  {
+    "voice_file": "xxd_b102_005.opus",
+    "voice_id": "XXD_B102_005",
+    "speaker": "bg",
+    "text_ja": "「ＡＴＲＩを引き揚げておくれ。あの子をあそこへ連れていけば、計画は再び動き出す……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_005.opus"
+  },
+  {
+    "voice_file": "xxd_b102_006.opus",
+    "voice_id": "XXD_B102_006",
+    "speaker": "bg",
+    "text_ja": "「デキの悪い家政婦みたいなモンだよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_006.opus"
+  },
+  {
+    "voice_file": "xxd_b102_007.opus",
+    "voice_id": "XXD_B102_007",
+    "speaker": "bg",
+    "text_ja": "「足くらいなんだってんだ！あんたはまだ負けちゃいない！地球を救うんだろう？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_007.opus"
+  },
+  {
+    "voice_file": "xxd_b102_008.opus",
+    "voice_id": "XXD_B102_008",
+    "speaker": "bg",
+    "text_ja": "「あの島はまだ海を漂っているはずだ。探しておくれ、夏生……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xxd_b102_008.opus"
+  },
+  {
+    "voice_file": "xya_b101_001.opus",
+    "voice_id": "XYA_B101_001",
+    "speaker": "ev",
+    "text_ja": "打ち上げ中継",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xya_b101_001.opus"
+  },
+  {
+    "voice_file": "xya_b101_002.opus",
+    "voice_id": "XYA_B101_002",
+    "speaker": "ev",
+    "text_ja": "打ち上げ中継",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xya_b101_002.opus"
+  },
+  {
+    "voice_file": "xyd_b111_001.opus",
+    "voice_id": "XYD_B111_001",
+    "speaker": "bg",
+    "text_ja": "「え、ヒットマンどこ？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b111_001.opus"
+  },
+  {
+    "voice_file": "xyd_b111_002.opus",
+    "voice_id": "XYD_B111_002",
+    "speaker": "bg",
+    "text_ja": "「ほんとだ……やっべぇぇ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b111_002.opus"
+  },
+  {
+    "voice_file": "xyd_b111_003.opus",
+    "voice_id": "XYD_B111_003",
+    "speaker": "bgm",
+    "text_ja": "「やーいやーいヒットマーーン」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b111_003.opus"
+  },
+  {
+    "voice_file": "xyd_b111_004.opus",
+    "voice_id": "XYD_B111_004",
+    "speaker": "bg",
+    "text_ja": "「ど、どうする……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b111_004.opus"
+  },
+  {
+    "voice_file": "xyd_b111_005.opus",
+    "voice_id": "XYD_B111_005",
+    "speaker": "bg",
+    "text_ja": "「死ぬなよ凜々花！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b111_005.opus"
+  },
+  {
+    "voice_file": "xyd_b111_006.opus",
+    "voice_id": "XYD_B111_006",
+    "speaker": "bg",
+    "text_ja": "「みなもちゃん、べんきょーしてる場合じゃないよ、凜々花が危ないんだっ！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b111_006.opus"
+  },
+  {
+    "voice_file": "xyd_b111_007.opus",
+    "voice_id": "XYD_B111_007",
+    "speaker": "bgm",
+    "text_ja": "「凜々花！　無事だったのか！」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b111_007.opus"
+  },
+  {
+    "voice_file": "xyd_b112_001.opus",
+    "voice_id": "XYD_B112_001",
+    "speaker": "bg",
+    "text_ja": "「……殺されるかと思った」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b112_001.opus"
+  },
+  {
+    "voice_file": "xyd_b112_002.opus",
+    "voice_id": "XYD_B112_002",
+    "speaker": "bgm",
+    "text_ja": "「はーい。じゃーな、凜々花」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyd_b112_002.opus"
+  },
+  {
+    "voice_file": "xyg_b102_001.opus",
+    "voice_id": "XYG_B102_001",
+    "speaker": "bg",
+    "text_ja": "「この子、ヒューマノイドかい？へぇ、まだ残ってんだねぇ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_001.opus"
+  },
+  {
+    "voice_file": "xyg_b102_002.opus",
+    "voice_id": "XYG_B102_002",
+    "speaker": "bg",
+    "text_ja": "「……あんたあれだろ、最近町に流れてきたって言うヨソ者の」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_002.opus"
+  },
+  {
+    "voice_file": "xyg_b102_003.opus",
+    "voice_id": "XYG_B102_003",
+    "speaker": "bg",
+    "text_ja": "「悪い事は言わないから、早いとこ出ていきな。ここは静かな町だ。あんたみたいなのは歓迎されない」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_003.opus"
+  },
+  {
+    "voice_file": "xyg_b102_004.opus",
+    "voice_id": "XYG_B102_004",
+    "speaker": "bg",
+    "text_ja": "「売るのかい？　この子を？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_004.opus"
+  },
+  {
+    "voice_file": "xyg_b102_005.opus",
+    "voice_id": "XYG_B102_005",
+    "speaker": "bg",
+    "text_ja": "「うちじゃとてもじゃないが買い取れないよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_005.opus"
+  },
+  {
+    "voice_file": "xyg_b102_006.opus",
+    "voice_id": "XYG_B102_006",
+    "speaker": "bg",
+    "text_ja": "「金がねえ。売るあてもねえし。でもまあ、買い手を探してやる事はできっかもなぁ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_006.opus"
+  },
+  {
+    "voice_file": "xyg_b102_007.opus",
+    "voice_id": "XYG_B102_007",
+    "speaker": "bg",
+    "text_ja": "「ちょいと型番を見せておくれ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_007.opus"
+  },
+  {
+    "voice_file": "xyg_b102_008.opus",
+    "voice_id": "XYG_B102_008",
+    "speaker": "bg",
+    "text_ja": "「ほぉほぉ……ヤマサキファクトリー社製の第４世代型……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_008.opus"
+  },
+  {
+    "voice_file": "xyg_b102_009.opus",
+    "voice_id": "XYG_B102_009",
+    "speaker": "bg",
+    "text_ja": "「初期不良が発覚してリコールされたモデルだねぇ、こりゃ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_009.opus"
+  },
+  {
+    "voice_file": "xyg_b102_010.opus",
+    "voice_id": "XYG_B102_010",
+    "speaker": "bg",
+    "text_ja": "「そうさなぁ……」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_010.opus"
+  },
+  {
+    "voice_file": "xyg_b102_011.opus",
+    "voice_id": "XYG_B102_011",
+    "speaker": "bg",
+    "text_ja": "「ところで、どこから連れて来たんだいこの子」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_011.opus"
+  },
+  {
+    "voice_file": "xyg_b102_012.opus",
+    "voice_id": "XYG_B102_012",
+    "speaker": "bg",
+    "text_ja": "「そうなのかい？」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_012.opus"
+  },
+  {
+    "voice_file": "xyg_b102_013.opus",
+    "voice_id": "XYG_B102_013",
+    "speaker": "bg",
+    "text_ja": "「そうかい、よかったなぁ。寒かったろう、海の底は」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_013.opus"
+  },
+  {
+    "voice_file": "xyg_b102_014.opus",
+    "voice_id": "XYG_B102_014",
+    "speaker": "bg",
+    "text_ja": "「そうさなぁ……リコール品っても、このくらいは付くかなぁ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_014.opus"
+  },
+  {
+    "voice_file": "xyg_b102_015.opus",
+    "voice_id": "XYG_B102_015",
+    "speaker": "bg",
+    "text_ja": "「買い手も探してやるよ。手数料はそうさね……５％で」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_015.opus"
+  },
+  {
+    "voice_file": "xyg_b102_016.opus",
+    "voice_id": "XYG_B102_016",
+    "speaker": "bg",
+    "text_ja": "「都市まで出向かなきゃならんし……まあ、１ヶ月ちょっとあれば」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_016.opus"
+  },
+  {
+    "voice_file": "xyg_b102_017.opus",
+    "voice_id": "XYG_B102_017",
+    "speaker": "bg",
+    "text_ja": "「もちろんさ。その方がうちも儲かる」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_017.opus"
+  },
+  {
+    "voice_file": "xyg_b102_018.opus",
+    "voice_id": "XYG_B102_018",
+    "speaker": "bg",
+    "text_ja": "「なぁ、あんたのマスターは誰だい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_018.opus"
+  },
+  {
+    "voice_file": "xyg_b102_019.opus",
+    "voice_id": "XYG_B102_019",
+    "speaker": "bg",
+    "text_ja": "「そうかいそうかい」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_019.opus"
+  },
+  {
+    "voice_file": "xyg_b102_020.opus",
+    "voice_id": "XYG_B102_020",
+    "speaker": "bg",
+    "text_ja": "「ヒューマノイドはマスターを間違えない。あんたがそうなんだな」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_020.opus"
+  },
+  {
+    "voice_file": "xyg_b102_021.opus",
+    "voice_id": "XYG_B102_021",
+    "speaker": "bg",
+    "text_ja": "「じゃあ、売りに行く時は同行してもらうよ。ヒューマノイドをマスターの許可なく売買するのは違法なんだ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_021.opus"
+  },
+  {
+    "voice_file": "xyg_b102_022.opus",
+    "voice_id": "XYG_B102_022",
+    "speaker": "bg",
+    "text_ja": "「ところで兄さん、あんたそれ随分と古いの使ってるね」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_022.opus"
+  },
+  {
+    "voice_file": "xyg_b102_023.opus",
+    "voice_id": "XYG_B102_023",
+    "speaker": "bg",
+    "text_ja": "「サイボーグ義足の安いのが出回ってるんだ。金が入ったらうちで注文してくれよ」",
+    "audio_path": "H:\\GDUT2025_12\\Voice_atri_mika\\voices\\xyg_b102_023.opus"
+  }
+]
