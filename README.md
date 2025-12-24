@@ -141,7 +141,7 @@ atr_b101_011.opus,ATR_B101_011,atr,「いえ、当然の務めを果たしたま
 **硬件配置**:
 - GPU: 2x NVIDIA RTX 3090 (48GB VRAM)
 - CUDA: 12.8
-- Python: 3.10 (Conda: Aoduo)
+- Python: 3.10 
 
 **已部署框架**:
 - ✅ GPT-SoVITS - TTS 语音合成
