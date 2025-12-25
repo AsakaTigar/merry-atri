@@ -1,174 +1,197 @@
-# 🎄 Merry ATRI - Voice & Dialogue Project
+# 🎄 Merry ATRI - 高性能ですから！
 
-> 🎅 Christmas 2025 Project - 让 ATRI 开口说话！
+> 基于《ATRI -My Dear Moments-》的全栈 AI 复刻项目
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub stars](https://img.shields.io/github/stars/AsakaTigar/merry-atri?style=social)](https://github.com/AsakaTigar/merry-atri)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## 🎯 项目目标
-
-从游戏《ATRI -My Dear Moments-》中提取：
-- 🎵 角色语音文件（.opus/.wav）
-- 📝 日文台词文本
-- 🔗 语音-文本对齐数据集
-
-用于训练：
-- **GPT-SoVITS** - 高质量日语 TTS 语音合成
-- **So-VITS-SVC** - 歌声/语音转换
-- **LLM (DeepSeek/Qwen)** - ATRI 角色对话模型
+<p align="center">
+  <i>"我可是高性能的！"</i>
+</p>
 
 ---
 
-## 📊 数据集统计
+## 📖 项目简介
 
-| 项目 | 数量 | 状态 |
+本项目致力于用现代 AI 技术"复活"《ATRI -My Dear Moments-》中的女主角亚托莉，实现：
+
+- 🎙️ **语音合成** - 用亚托莉的声音说任何话
+- 🧠 **对话系统** - 拥有亚托莉人格的 LLM
+- 💾 **长期记忆** - 记住每一次对话
+
+---
+
+## ✨ 特色工具
+
+### 1. 🚀 模型下载监控面板
+
+一个漂亮的 Web 界面，实时监控多个大模型的下载进度。
+
+```bash
+# 启动
+python model_download_dashboard.py
+
+# 访问: http://localhost:9877
+```
+
+**功能特点**：
+- 📊 实时进度条 (每10秒刷新)
+- 🎨 渐变动画 + 响应式设计
+- ➕ 一键添加新模型下载
+- 🔗 支持 HF-Mirror (国内直连) 和 ModelScope
+
+### 2. 📥 后台模型下载脚本
+
+支持断点续传的批量模型下载脚本，已预置 7 个二次元 RP 优化模型。
+
+```bash
+# 后台运行
+nohup bash download_models_bg.sh > logs/download_models.log 2>&1 &
+
+# 查看进度
+bash monitor_progress.sh
+```
+
+**预置模型**：
+| 模型 | 大小 | 特点 |
 |------|------|------|
-| 📜 剧本文件 (.scn) | 32 个 | ✅ 反编译完成 |
-| 📋 全量文本记录 | 4,683 条 | ✅ 提取完成 |
-| 🎵 语音文件 (.opus) | 4,648 个 | ✅ 已同步至服务器 |
-| ✨ 语音-文本对齐 | 4,629 条 | ✅ 已验证 |
+| Qwen3-14B-Base | ~28GB | 通用基座 |
+| DeepSeek-R1-Distill-Qwen-14B | ~28GB | 推理增强 |
+| Ministral-3-14B-Instruct | ~28GB | Mistral 最新 |
+| Qwen2.5-14B-Roleplay-ZH | ~28GB | 🎌 二次元 RP |
+| Yi-1.5-9B-Chat | ~18GB | 📝 文学创作 |
+| Qwen2.5-14B-MegaFusion-RP | ~28GB | 🔥 多数据融合 |
+| Aris-Qwen1.5-14B-DPO | ~28GB | ⭐ 社区口碑 |
 
-### 角色语音分布
+### 3. 🌐 Clash TUN 代理绕过配置
 
-| 角色 | 语音数量 | 占比 |
-|------|---------|------|
-| アトリ (ATRI) | 2,154 | 46.5% |
-| 美奈子 (MIN) | 608 | 13.1% |
-| 龙司 (RYU) | 585 | 12.6% |
-| 其他角色 | 1,282 | 27.8% |
+为服务器上的全局 TUN 代理配置国内镜像直连，避免下载模型时消耗代理流量。
+
+**已配置直连的域名**：
+- ModelScope、HF-Mirror、Mistral.ai
+- 清华 TUNA、阿里镜像、华为云
+- 百度、腾讯、B站等国内站点
+
+详见 `/opt/clash/runtime.yaml` 中的 `fake-ip-filter` 配置。
+
+### 4. 🎙️ GPT-SoVITS 语音训练
+
+基于 GPT-SoVITS 的亚托莉语音克隆。
+
+```bash
+# 一键训练
+bash train_gpt_sovits_master.sh
+
+# TensorBoard 监控
+tensorboard --logdir=frameworks/GPT-SoVITS/logs/ATRI
+```
+
+### 5. 🧠 LLM 对话模型微调
+
+使用 LLaMA-Factory 对 14B 模型进行 LoRA 微调。
+
+```bash
+# 一键启动 (数据处理 + 训练)
+bash train_llm_master.sh
+```
+
+**训练数据**：游戏完整剧本对话，共 5030 条，29 个 Session，平均 66 轮/会话。
 
 ---
 
-## 🛠️ 使用的工具
-
-- **KirikiriTools** - 运行时资源提取
-- **FreeMote** - SCN/PSB 反编译
-- **Python** - 数据处理脚本
-- **GPT-SoVITS** - TTS 训练框架
-- **LLaMA-Factory** - LLM 微调框架
-
----
-
-## 📁 项目结构
+## 📂 项目结构
 
 ```
 merry-atri/
-├── README.md                 # 本文件
-├── dataset.csv               # 全部文本记录 (4,683条)
-├── extract_dialogue.py       # 从 JSON 提取对话的脚本
-├── generate_dataset.py       # 生成最终数据集的脚本
+├── 📄 README.md                    # 本文件
+├── 📄 每次必读文件.md               # 开发者必读
+├── 📄 工作日志情况.md               # 开发日志
 │
-├── decrypted/                # 反编译后的剧本 JSON
-├── voices/                   # 解密后的语音文件 (.opus)
-├── final_dataset/            # ⭐ 最终数据集
-│   ├── dataset_matched.csv   # 语音-文本对齐表
-│   └── dataset_matched.json  # JSON 格式
+├── 🛠️ 特色工具/
+│   ├── model_download_dashboard.py # Web 监控面板
+│   ├── download_models_bg.sh       # 后台下载脚本
+│   ├── monitor_progress.sh         # CLI 进度条
+│   └── extract_multilang_dialogue.py # 对话提取
 │
-├── FreeMote/                 # 反编译工具
-└── KirikiriTools/            # 运行时提取工具
+├── 📦 weights/
+│   ├── llm/                        # LLM 模型权重
+│   └── gpt_sovits/                 # 语音模型权重
+│
+├── 📊 dataset/                     # 训练数据
+│   └── phase2_import/              # 游戏剧本 JSON
+│
+├── 🔧 frameworks/
+│   ├── GPT-SoVITS/                 # 语音合成框架
+│   └── LLaMA-Factory/              # LLM 微调框架
+│
+└── 📋 logs/                        # 训练日志
 ```
 
 ---
 
 ## 🚀 快速开始
 
-### 1. 提取语音（需要游戏）
-```powershell
-# 将 KirikiriTools/version.dll 复制到游戏目录
-# 创建空文件 extract-unencrypted.txt
-# 运行游戏，语音会自动解密到 unencrypted/ 文件夹
-```
+### 环境要求
+- Python 3.10+
+- CUDA 12.x
+- 2x RTX 3090 或同等算力 (48GB+ VRAM)
+- 200GB+ 磁盘空间
 
-### 2. 反编译剧本
-```powershell
-cd FreeMote
-.\PsbDecompile.exe <scn文件路径>
-```
-
-### 3. 提取文本
+### 1. 克隆仓库
 ```bash
-python extract_dialogue.py
+git clone https://github.com/AsakaTigar/merry-atri.git
+cd merry-atri
 ```
 
-### 4. 生成数据集
+### 2. 安装依赖
 ```bash
-python generate_dataset.py
+conda activate Aoduo  # 或你的环境
+pip install flask modelscope transformers datasets
+```
+
+### 3. 下载模型
+```bash
+# 启动下载
+nohup bash download_models_bg.sh > logs/download_models.log 2>&1 &
+
+# 监控进度
+python model_download_dashboard.py  # 打开 http://localhost:9877
+```
+
+### 4. 开始微调
+```bash
+bash train_llm_master.sh
 ```
 
 ---
 
-## 📋 数据集格式
+## 📝 TODO
 
-### CSV 格式 (dataset_matched.csv)
-```csv
-voice_file,voice_id,speaker,text_ja,audio_path
-atr_b101_011.opus,ATR_B101_011,atr,「いえ、当然の務めを果たしたまでです」,voices/atr_b101_011.opus
-```
-
-### JSON 格式 (dataset_matched.json)
-```json
-[
-  {
-    "voice_file": "atr_b101_011.opus",
-    "voice_id": "ATR_B101_011",
-    "speaker": "atr",
-    "text_ja": "「いえ、当然の務めを果たしたまでです」",
-    "audio_path": "voices/atr_b101_011.opus"
-  }
-]
-```
+- [x] GPT-SoVITS 语音训练
+- [x] LLM 对话数据提取
+- [x] 模型下载监控面板
+- [ ] LLM 微调完成
+- [ ] 整合语音 + 对话 Pipeline
+- [ ] 长期记忆系统 (Mem0)
+- [ ] Gradio/Web 交互界面
 
 ---
 
-## 🔢 角色语音文件命名规则
+## 🙏 致谢
 
-| 前缀 | 角色 |
-|------|------|
-| `ATR_` | アトリ (ATRI) |
-| `MIN_` | 美奈子 |
-| `RYU_` | 龙司 |
-| `CAT_` | キャサリン |
-| `YAS_` | 夜咲 |
-
-文件名格式: `{角色}_b{章节}{场景}_{序号}.opus`
-
-例: `ATR_b304_133.opus` = ATRI 第3章第4节第133句
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 语音合成
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - LLM 微调
+- [ATRI -My Dear Moments-](https://atri-mdm.com/) - 原作游戏
+- Qwen、DeepSeek、Mistral、Yi 等开源模型
 
 ---
 
-## 🖥️ 服务器训练环境
+## 📜 License
 
-**硬件配置**:
-- GPU: 2x NVIDIA RTX 3090 (48GB VRAM)
-- CUDA: 12.8
-- Python: 3.10 
-
-**已部署框架**:
-- ✅ GPT-SoVITS - TTS 语音合成
-- ✅ So-VITS-SVC - 歌声转换
-- ✅ LLaMA-Factory - LLM 微调
-- ✅ Mem0 - 长期记忆系统
-
-**已下载模型**:
-- ✅ DeepSeek-R1-Distill-Qwen-32B (19GB)
-- 🔄 Qwen3-32B (下载中)
-- ✅ Faster-Whisper-Large-V3 (ASR)
+MIT License - 仅供学习交流，请勿用于商业用途。
 
 ---
 
-## ⚠️ 声明
-
-本项目仅供学习研究使用。所有游戏素材版权归原作者所有：
-- **Game**: ATRI -My Dear Moments- (Aniplex.exe / Frontwing)
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 🎅 Merry Christmas, ATRI! 🎄
-
-> *"高性能ですから！"*
+<p align="center">
+  <b>高性能ですから！</b> 🎄
+</p>
