@@ -1,6 +1,6 @@
 # 🎄 Merry ATRI - 高性能ですから！
 
-> 基于《ATRI -My Dear Moments-》的全栈 AI 复刻项目
+> 基于《ATRI -My Dear Moments-》的全栈 AI 项目
 
 [![GitHub stars](https://img.shields.io/github/stars/AsakaTigar/merry-atri?style=social)](https://github.com/AsakaTigar/merry-atri)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -13,19 +13,19 @@
 
 ## 📖 项目简介
 
-本项目致力于用现代 AI 技术"复活"《ATRI -My Dear Moments-》中的女主角亚托莉，实现：
+本项目旨在通过现代 AI 技术重现《ATRI -My Dear Moments-》中的角色交互体验，实现：
 
-- 🎙️ **语音合成** - 用亚托莉的声音说任何话
-- 🧠 **对话系统** - 拥有亚托莉人格的 LLM
-- 💾 **长期记忆** - 记住每一次对话
+- **语音合成** - 高质量的 VITS/GPT-SoVITS 语音克隆
+- **对话系统** - 基于 LLM 的个性化角色扮演
+- **长期记忆** - 实现对话历史的持久化与检索
 
 ---
 
 ## ✨ 特色工具
 
-### 1. 🚀 模型下载监控面板
+### 1. 模型下载监控面板
 
-一个漂亮的 Web 界面，实时监控多个大模型的下载进度。
+一个直观的 Web 界面，实时监控多个大模型的下载进度。
 
 ```bash
 # 启动
@@ -35,12 +35,12 @@ python model_download_dashboard.py
 ```
 
 **功能特点**：
-- 📊 实时进度条 (每10秒刷新)
-- 🎨 渐变动画 + 响应式设计
-- ➕ 一键添加新模型下载
-- 🔗 支持 HF-Mirror (国内直连) 和 ModelScope
+- 实时进度条 (每10秒刷新)
+- 渐变动画 + 响应式设计
+- 一键添加新模型下载
+- 支持 HF-Mirror (国内直连) 和 ModelScope
 
-### 2. 📥 后台模型下载脚本
+### 2. 后台模型下载脚本
 
 支持断点续传的批量模型下载脚本，已预置 7 个二次元 RP 优化模型。
 
@@ -59,11 +59,11 @@ bash monitor_progress.sh
 | DeepSeek-R1-Distill-Qwen-14B | ~28GB | 推理增强 |
 | Ministral-3-14B-Instruct | ~28GB | Mistral 最新 |
 | Qwen2.5-14B-Roleplay-ZH | ~28GB | 🎌 二次元 RP |
-| Yi-1.5-9B-Chat | ~18GB | 📝 文学创作 |
-| Qwen2.5-14B-MegaFusion-RP | ~28GB | 🔥 多数据融合 |
-| Aris-Qwen1.5-14B-DPO | ~28GB | ⭐ 社区口碑 |
+| Yi-1.5-9B-Chat | ~18GB | 文学创作 |
+| Qwen2.5-14B-MegaFusion-RP | ~28GB | 多数据融合 |
+| Aris-Qwen1.5-14B-DPO | ~28GB | 社区口碑 |
 
-### 3. 🌐 Clash TUN 代理绕过配置
+### 3. Clash TUN 代理绕过配置
 
 为服务器上的全局 TUN 代理配置国内镜像直连，避免下载模型时消耗代理流量。
 
@@ -74,7 +74,7 @@ bash monitor_progress.sh
 
 详见 `/opt/clash/runtime.yaml` 中的 `fake-ip-filter` 配置。
 
-### 4. 🎙️ GPT-SoVITS 语音训练
+### 4. GPT-SoVITS 语音训练
 
 基于 GPT-SoVITS 的亚托莉语音克隆。
 
@@ -86,7 +86,7 @@ bash train_gpt_sovits_master.sh
 tensorboard --logdir=frameworks/GPT-SoVITS/logs/ATRI
 ```
 
-### 5. 🧠 LLM 对话模型微调
+### 5. LLM 对话模型微调
 
 使用 LLaMA-Factory 对 14B 模型进行 LoRA 微调。
 
@@ -107,24 +107,24 @@ merry-atri/
 ├── 📄 每次必读文件.md               # 开发者必读
 ├── 📄 工作日志情况.md               # 开发日志
 │
-├── 🛠️ 特色工具/
+├── tools/                          # 工具脚本
+│   ├── atri_tuning_console.py      # 调音台 WebUI
+│   ├── hq_tts_synthesis.py         # 高质量合成 CLI
 │   ├── model_download_dashboard.py # Web 监控面板
-│   ├── download_models_bg.sh       # 后台下载脚本
-│   ├── monitor_progress.sh         # CLI 进度条
-│   └── extract_multilang_dialogue.py # 对话提取
+│   └── ...
 │
-├── 📦 weights/
+├── weights/
 │   ├── llm/                        # LLM 模型权重
 │   └── gpt_sovits/                 # 语音模型权重
 │
-├── 📊 dataset/                     # 训练数据
+├── dataset/                        # 训练数据
 │   └── phase2_import/              # 游戏剧本 JSON
 │
-├── 🔧 frameworks/
+├── frameworks/
 │   ├── GPT-SoVITS/                 # 语音合成框架
 │   └── LLaMA-Factory/              # LLM 微调框架
 │
-└── 📋 logs/                        # 训练日志
+└── logs/                           # 训练日志
 ```
 
 ---
@@ -170,10 +170,10 @@ bash train_llm_master.sh
 - [x] GPT-SoVITS 语音训练
 - [x] LLM 对话数据提取
 - [x] 模型下载监控面板
+- [x] 调音台 WebUI
 - [ ] LLM 微调完成
 - [ ] 整合语音 + 对话 Pipeline
 - [ ] 长期记忆系统 (Mem0)
-- [ ] Gradio/Web 交互界面
 
 ---
 
