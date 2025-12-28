@@ -1,7 +1,7 @@
 # ATRI - 极致语音拟合项目计划书
 
-> 🎄 **最后更新**: 2025-12-27 16:30
-> 📊 **状态**: v4 双卡训练中 🔥
+> 🎄 **最后更新**: 2025-12-28 16:25
+> 📊 **状态**: ✅ 全链路已完成！
 
 ---
 
@@ -26,22 +26,29 @@
 | **参考库** | 9 种情感 × 2154 样本 | ✅ |
 | **评测工具** | `evaluate_checkpoints.py` | ✅ |
 | **对话数据** | 1566 组 ShareGPT 格式 | ✅ |
+| **LLM 微调** | QLoRA 4-bit, Loss 2.6→0.37 | ✅ |
+| **模型合并** | ATRI_Merged (28GB, 16 shards) | ✅ |
+| **全链路脚本** | `start_atri_full_pipeline.sh` | ✅ |
 
 ---
 
-## 🔥 当前进度: v4 训练
+## 🚀 快速启动
 
-### 双卡并行策略 (2x RTX 3090)
-
-| GPU | 模型 | 配置 | 显存 |
-|-----|------|------|------|
-| 0 | SoVITS v4 | Batch 24, 10 epochs | 20GB |
-| 1 | GPT v4 (DPO) | Batch 8, 20 epochs | 12GB |
-
-### 日志位置
+### 全链路一键启动 (推荐)
+```bash
+cd /mnt/t2-6tb/Linpeikai/Voice/ATRI
+./start_atri_full_pipeline.sh
 ```
-logs/train_sovits_v4.log
-logs/train_gpt_v4.log
+
+### 单独启动组件
+```bash
+# GPU 0: TTS 调音台
+CUDA_VISIBLE_DEVICES=0 python atri_tuning_console.py
+
+# GPU 1: LLM API 服务
+CUDA_VISIBLE_DEVICES=1 llamafactory-cli api \
+    --model_name_or_path ./weights/llm/ATRI_Merged \
+    --template qwen --port 8000
 ```
 
 ---
@@ -51,21 +58,32 @@ logs/train_gpt_v4.log
 ```
 /mnt/t2-6tb/Linpeikai/Voice/ATRI/
 ├── dataset/
-│   ├── gpt_sovits_train/     # 2154 条 WAV
-│   ├── reference_library.json # 情感参考库
-│   └── llm_finetune/         # 对话数据集
-├── weights/gpt-sovits/ATRI/  # 训练产物
-├── tts_outputs/              # 合成输出
-└── frameworks/GPT-SoVITS/    # 主框架
+│   ├── gpt_sovits_train/        # 2154 条 WAV
+│   ├── reference_library.json   # 情感参考库
+│   └── llm_finetune/            # 对话数据集 (1566组)
+├── weights/
+│   ├── gpt-sovits/ATRI/         # v4 TTS 模型
+│   └── llm/
+│       ├── ATRI_LLM_Checkpoints/  # LoRA adapter
+│       └── ATRI_Merged/           # 合并后完整模型 (28GB)
+├── tools/                        # 核心脚本
+│   ├── atri_tuning_console.py    # TTS 调音台
+│   ├── atri_llm_tts_bridge.py    # 情感-TTS 桥接
+│   └── atri_personality_check.py # 性格自检
+├── logs/                         # 训练/推理日志
+└── frameworks/
+    ├── GPT-SoVITS/               # TTS 框架
+    └── LLaMA-Factory/            # LLM 框架
 ```
 
 ---
 
-## 🎯 下一步
+## 🎹 服务端点
 
-1. **训练完成** → 运行 `python evaluate_checkpoints.py`
-2. **效果对比** → v2 vs v4 A/B 测试
-3. **LLM 联动** → [Emotion] 标签自动选参考音频
+| 服务 | 地址 | GPU |
+|------|------|-----|
+| TTS 调音台 | http://localhost:7880 | 0 |
+| LLM API | http://localhost:8000 | 1 |
 
 ---
 
